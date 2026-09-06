@@ -1,8 +1,8 @@
 export type Evidence = "A 官方/监管" | "B 企业官方" | "C 权威转引" | "D 线索待核验";
 
 export const navItems = [
-  ["学习路径", "/learn"], ["产业链", "/industry"], ["厂商", "/companies"],
-  ["产品", "/products"], ["市场财务", "/market"], ["政策标准", "/standards"],
+  ["学习", "/learn"], ["产业链", "/industry"], ["厂商", "/companies"],
+  ["产品", "/products"], ["市场", "/market"], ["财报", "/financials"], ["标准", "/standards"],
   ["项目案例", "/projects"], ["制造机会", "/manufacturing"], ["每周情报", "/weekly"],
   ["来源覆盖", "/sources"],
 ];
@@ -87,6 +87,50 @@ export const marketData = [
   {metric:"市场集中度信号",period:"2024",value:"前三约七成",change:"浪潮、超聚变、宁畅",scope:"按厂商销售额；具体份额需购买/核验原报告",evidence:"C 权威转引" as Evidence,source:"https://xxzx.fujian.gov.cn/jjxx/xxhdt/202505/t20250509_6910026.htm"},
 ];
 
+export const financials = [
+  {
+    company:"英维克", ticker:"002837.SZ", region:"广东·深圳", focus:"数据中心温控、冷板、CDU、管路与液冷系统",
+    evidence:"A 官方/监管" as Evidence,
+    sources:[
+      {label:"2024年度报告",url:"https://static.cninfo.com.cn/finalpage/2025-04-22/1223190929.PDF"},
+      {label:"2022年度财务报告",url:"https://disc.static.szse.cn/disc/disk03/finalpage/2023-04-10/974f467b-1cd2-4614-a6c3-abe04723687a.PDF"},
+      {label:"2021年度财务决算",url:"https://static.cninfo.com.cn/finalpage/2022-04-26/1213101808.PDF"},
+    ],
+    years:[
+      {year:2020,revenue:17.03,netProfit:1.82},{year:2021,revenue:22.28,netProfit:2.05},
+      {year:2022,revenue:29.23,netProfit:2.80},{year:2023,revenue:35.29,netProfit:3.44},
+      {year:2024,revenue:45.89,netProfit:4.53},
+    ],
+  },
+  {
+    company:"申菱环境", ticker:"301018.SZ", region:"广东·佛山", focus:"数据服务温控、CDU、液冷环网与冷源系统",
+    evidence:"A 官方/监管" as Evidence,
+    sources:[
+      {label:"2024年度报告摘要",url:"https://static.cninfo.com.cn/finalpage/2025-04-28/1223319937.PDF"},
+      {label:"2022年度财务决算",url:"https://static.cninfo.com.cn/finalpage/2023-04-28/1216657793.PDF"},
+      {label:"2021年度报告摘要",url:"https://static.cninfo.com.cn/finalpage/2022-04-25/1213052329.PDF"},
+    ],
+    years:[
+      {year:2020,revenue:14.67,netProfit:1.25},{year:2021,revenue:17.98,netProfit:1.40},
+      {year:2022,revenue:22.21,netProfit:1.66},{year:2023,revenue:25.11,netProfit:1.05},
+      {year:2024,revenue:30.16,netProfit:1.16},
+    ],
+  },
+  {
+    company:"同飞股份", ticker:"300990.SZ", region:"中国·河北", focus:"工业温控、液体恒温设备及数据中心液冷",
+    evidence:"A 官方/监管" as Evidence,
+    sources:[
+      {label:"2024年度报告",url:"https://static.cninfo.com.cn/finalpage/2025-04-18/1223121085.PDF"},
+      {label:"公司投资者关系",url:"https://www.tfzl.com/invest"},
+    ],
+    years:[
+      {year:2020,revenue:6.12,netProfit:1.25},{year:2021,revenue:8.29,netProfit:1.20},
+      {year:2022,revenue:10.08,netProfit:1.28},{year:2023,revenue:18.45,netProfit:1.82},
+      {year:2024,revenue:21.60,netProfit:1.53},
+    ],
+  },
+];
+
 export const projects = [
   {name:"中国移动粤港澳（广州）数据中心",place:"广州",signal:"采用液冷散热、异构计算、算电协同等技术；官方称为广州首个单体万P新型智算中心。",date:"2026",source:"https://kjj.gz.gov.cn/xwlb/yw/content/post_10760625.html"},
   {name:"香港科技大学（广州）智算中心",place:"广州",signal:"官方答复材料称建成40kW以上喷淋液冷规模化应用数据中心。",date:"2025",source:"https://kjj.gz.gov.cn/gkmlpt/content/10/10326/post_10326790.html"},
@@ -140,6 +184,7 @@ export const searchIndex = [
   ...learningChapters.map(x=>({title:x.title,type:"学习",summary:x.summary,url:"/learn"})),
   ...companies.map(x=>({title:x.name,type:"厂商",summary:`${x.region}｜${x.stage}｜${x.focus}`,url:"/companies"})),
   ...products.map(x=>({title:x.name,type:"产品",summary:`${x.vendor}｜${x.type}｜${x.capacity}`,url:"/products"})),
+  ...financials.map(x=>({title:`${x.company} ${x.ticker}`,type:"财报",summary:`${x.region}｜2020—2024营收与归母净利润｜${x.focus}`,url:"/financials"})),
   ...standards.map(x=>({title:x.code,type:"标准",summary:`${x.title}｜${x.region}｜${x.date}`,url:"/standards"})),
   ...projects.map(x=>({title:x.name,type:"项目",summary:`${x.place}｜${x.signal}`,url:"/projects"})),
 ];

@@ -4,7 +4,7 @@ import { navItems } from "@/lib/data";
 export function SiteHeader() {
   return <header className="site-header">
     <Link className="brand" href="/"><span className="brand-mark">LC</span><span>AI液冷产业知识库</span></Link>
-    <nav className="site-nav" aria-label="知识库导航">{navItems.slice(0,6).map(([label,url])=><Link key={url} href={url}>{label}</Link>)}</nav>
+    <nav className="site-nav" aria-label="知识库导航">{navItems.slice(0,7).map(([label,url])=><Link key={url} href={url}>{label}</Link>)}</nav>
     <Link className="search-link" href="/search">搜索 <kbd>/</kbd></Link>
   </header>;
 }

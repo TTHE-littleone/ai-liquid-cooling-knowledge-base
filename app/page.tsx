@@ -34,7 +34,7 @@ export default function Home() {
           <div className="scope-row"><span>中文呈现</span><span>中英日韩来源</span><span>2020年至今回溯</span><span>零付费接口</span></div>
         </div>
         <aside className="signal-card" aria-label="知识库运行节奏">
-          <div className="signal-head"><div><small>SYSTEM RHYTHM</small><h2>持续采集，统一周更</h2></div><span className="status">规划就绪</span></div>
+          <div className="signal-head"><div><small>SYSTEM RHYTHM</small><h2>持续采集，统一周更</h2></div><span className="status">网站已上线</span></div>
           <div className="pulse" aria-hidden="true"><span /><span /><span /><span /><span /><span /><span /></div>
           <div className="rhythm-list">{rhythms.map(([time, action]) => <div key={time}><strong>{time}</strong><span>{action}</span></div>)}</div>
           <div className="trust-note"><b>可信度规则</b><p>官方资料进入正式库；宣传与转载只作为线索。每条记录保留来源、时间、地域与证据等级。</p></div>

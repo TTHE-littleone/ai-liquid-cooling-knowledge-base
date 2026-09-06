@@ -614,6 +614,148 @@
       "source": "https://xxzx.fujian.gov.cn/jjxx/xxhdt/202505/t20250509_6910026.htm"
     }
   ],
+  "financials": [
+    {
+      "company": "英维克",
+      "ticker": "002837.SZ",
+      "region": "广东·深圳",
+      "focus": "数据中心温控、冷板、CDU、管路与液冷系统",
+      "evidence": "A 官方/监管",
+      "sources": [
+        {
+          "label": "2024年度报告",
+          "url": "https://static.cninfo.com.cn/finalpage/2025-04-22/1223190929.PDF"
+        },
+        {
+          "label": "2022年度财务报告",
+          "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2023-04-10/974f467b-1cd2-4614-a6c3-abe04723687a.PDF"
+        },
+        {
+          "label": "2021年度财务决算",
+          "url": "https://static.cninfo.com.cn/finalpage/2022-04-26/1213101808.PDF"
+        }
+      ],
+      "years": [
+        {
+          "year": 2020,
+          "revenue": 17.03,
+          "netProfit": 1.82
+        },
+        {
+          "year": 2021,
+          "revenue": 22.28,
+          "netProfit": 2.05
+        },
+        {
+          "year": 2022,
+          "revenue": 29.23,
+          "netProfit": 2.8
+        },
+        {
+          "year": 2023,
+          "revenue": 35.29,
+          "netProfit": 3.44
+        },
+        {
+          "year": 2024,
+          "revenue": 45.89,
+          "netProfit": 4.53
+        }
+      ]
+    },
+    {
+      "company": "申菱环境",
+      "ticker": "301018.SZ",
+      "region": "广东·佛山",
+      "focus": "数据服务温控、CDU、液冷环网与冷源系统",
+      "evidence": "A 官方/监管",
+      "sources": [
+        {
+          "label": "2024年度报告摘要",
+          "url": "https://static.cninfo.com.cn/finalpage/2025-04-28/1223319937.PDF"
+        },
+        {
+          "label": "2022年度财务决算",
+          "url": "https://static.cninfo.com.cn/finalpage/2023-04-28/1216657793.PDF"
+        },
+        {
+          "label": "2021年度报告摘要",
+          "url": "https://static.cninfo.com.cn/finalpage/2022-04-25/1213052329.PDF"
+        }
+      ],
+      "years": [
+        {
+          "year": 2020,
+          "revenue": 14.67,
+          "netProfit": 1.25
+        },
+        {
+          "year": 2021,
+          "revenue": 17.98,
+          "netProfit": 1.4
+        },
+        {
+          "year": 2022,
+          "revenue": 22.21,
+          "netProfit": 1.66
+        },
+        {
+          "year": 2023,
+          "revenue": 25.11,
+          "netProfit": 1.05
+        },
+        {
+          "year": 2024,
+          "revenue": 30.16,
+          "netProfit": 1.16
+        }
+      ]
+    },
+    {
+      "company": "同飞股份",
+      "ticker": "300990.SZ",
+      "region": "中国·河北",
+      "focus": "工业温控、液体恒温设备及数据中心液冷",
+      "evidence": "A 官方/监管",
+      "sources": [
+        {
+          "label": "2024年度报告",
+          "url": "https://static.cninfo.com.cn/finalpage/2025-04-18/1223121085.PDF"
+        },
+        {
+          "label": "公司投资者关系",
+          "url": "https://www.tfzl.com/invest"
+        }
+      ],
+      "years": [
+        {
+          "year": 2020,
+          "revenue": 6.12,
+          "netProfit": 1.25
+        },
+        {
+          "year": 2021,
+          "revenue": 8.29,
+          "netProfit": 1.2
+        },
+        {
+          "year": 2022,
+          "revenue": 10.08,
+          "netProfit": 1.28
+        },
+        {
+          "year": 2023,
+          "revenue": 18.45,
+          "netProfit": 1.82
+        },
+        {
+          "year": 2024,
+          "revenue": 21.6,
+          "netProfit": 1.53
+        }
+      ]
+    }
+  ],
   "projects": [
     {
       "name": "中国移动粤港澳（广州）数据中心",
