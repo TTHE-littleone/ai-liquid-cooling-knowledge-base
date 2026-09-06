@@ -1,0 +1,3 @@
+import { learningChapters } from "@/lib/data";
+import { PageIntro, SiteFooter, SiteHeader } from "@/components/SiteChrome";
+export default function Learn(){return <><SiteHeader/><main className="subpage"><PageIntro kicker="LEARNING PATH" title="从零建立AI液冷知识体系" description="按依赖关系学习，而不是被碎片新闻牵着走。每章会连接技术、产品、企业、标准和项目证据。" meta="12章 · 入门到业务 · 中文讲解"/><div className="chapter-list">{learningChapters.map((x,i)=><article key={x.id}><div><span>{x.id}</span><b>{x.level}</b></div><h2>{x.title}</h2><p>{x.summary}</p><ul>{x.topics.map(t=><li key={t}>{t}</li>)}</ul><strong>{String(i+1).padStart(2,"0")}/12</strong></article>)}</div></main><SiteFooter/></>}

@@ -1,0 +1,21 @@
+name: 来源覆盖审计
+on:
+  schedule:
+    - cron: "17 1 1 1,4,7,10 *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: "22"}
+      - run: node scripts/audit-sources.mjs
+      - run: |
+          git config user.name "liquid-cooling-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add automation/audit.json public/reports/source-audit.md
+          git diff --cached --quiet || git commit -m "audit: 更新液冷来源覆盖审计"
+          git push

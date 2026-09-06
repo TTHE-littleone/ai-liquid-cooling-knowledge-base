@@ -1,0 +1,1039 @@
+{
+  "generatedAt": "2026-09-06T16:18:08.469Z",
+  "period": {
+    "start": "2026-08-29",
+    "end": "2026-09-06"
+  },
+  "items": [
+    {
+      "id": "0987ebd0b558",
+      "sourceId": "ndrc-data-center",
+      "sourceName": "国家发展改革委数据中心政策",
+      "region": "中国",
+      "type": "政策",
+      "evidence": "B 企业/机构官方",
+      "title": "《数据中心绿色低碳发展专项行动计划》",
+      "url": "https://zfxxgk.ndrc.gov.cn/web/fileread.jsp?id=Gp72TUS55i2Ja3x1AjuIGw%3D%3D&oId=CyhKpkrovBbZEFydEoyRsg%3D%3D",
+      "keywords": [
+        "数据中心",
+        "绿色低碳"
+      ],
+      "score": 4,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "bba10b09cf6e",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "ANSI/ASHRAE Standard 90.4-2025, Energy Standard for Data Centers",
+      "url": "https://store.accuristech.com/standards/ashrae-90-4-2025?product_id=3032033",
+      "keywords": [
+        "data center",
+        "90.4"
+      ],
+      "score": 4,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "2a212654759d",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Liquid Cooling in Data Centers",
+      "url": "https://www.ashrae.org/news/ashraejournal/ashrae-journal-podcast-episode-44",
+      "keywords": [
+        "liquid cooling",
+        "data center"
+      ],
+      "score": 4,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "c836e28f44f1",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Liquid Cooling in Data Centers, Part 2",
+      "url": "https://www.ashrae.org/news/ashraejournal/ashrae-journal-podcast-episode-49",
+      "keywords": [
+        "liquid cooling",
+        "data center"
+      ],
+      "score": 4,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "4c19dd8c3f7c",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "90.4: Energy Standard For Data Centers",
+      "url": "https://store.accuristech.com/ashrae/standards/energy-standard-for-data-centers-90-4?product_id=2522982",
+      "keywords": [
+        "data center",
+        "90.4"
+      ],
+      "score": 4,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "11ed9fd24e34",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Data Center Power Equipment Thermal Guidelines and Best Practices",
+      "url": "https://www.ashrae.org/file%20library/technical%20resources/bookstore/ashrae_tc0909_power_white_paper_22_june_2016_revised.pdf",
+      "keywords": [
+        "data center",
+        "thermal"
+      ],
+      "score": 4,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "b89cc121b48a",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Data Center Storage Equipment &#8211; Thermal Guidelines, Issues, and Best Practices",
+      "url": "https://www.ashrae.org/file%20library/technical%20resources/bookstore/ashrae_storage_white_paper_2015.pdf",
+      "keywords": [
+        "data center",
+        "thermal"
+      ],
+      "score": 4,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "435286f654a2",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Emergence and Expansion of Liquid Cooling in Mainstream Data Centers",
+      "url": "https://www.ashrae.org/file%20library/technical%20resources/bookstore/emergence-and-expansion-of-liquid-cooling-in-mainstream-data-centers_wp.pdf",
+      "keywords": [
+        "liquid cooling",
+        "data center"
+      ],
+      "score": 4,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "6abac002e3d0",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Vera Rubin NVL72 Rack-Scale Agentic AI Supercomputer",
+      "url": "https://www.nvidia.com/en-us/data-center/vera-rubin-nvl72/",
+      "keywords": [
+        "NVL72",
+        "rack"
+      ],
+      "score": 4,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "4d8f34619a45",
+      "sourceId": "vertiv-liquid",
+      "sourceName": "Vertiv液冷",
+      "region": "全球",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "Vertiv™ Liebert&#174; XDU 1350 - Data Sheet - English - Rev.1025",
+      "url": "https://www.vertiv.com/49cb8b/globalassets/shared/liebert-xdu1350-coolant-distribution-unitcdu-ds-en-na-sl-70799-web.pdf",
+      "keywords": [
+        "XDU",
+        "CDU"
+      ],
+      "score": 4,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "d3bc4dacf502",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "AI Data Center Framework",
+      "url": "https://www.ashrae.org/technical-resources/ai-data-center-framework",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "f5f02a73d82b",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "2027 ASHRAE Data Center and AI Integration Conference",
+      "url": "https://www.ashrae.org/conferences/topical-conferences/2027-ashrae-data-center-and-ai-integration-conference",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "6ea906492dc2",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Standard 127-2020, Method of Testing for Rating Air-Conditioning Units Serving Data Center (DC) and Other Information Technology Equipment (ITE)",
+      "url": "https://store.accuristech.com/ashrae/standards/ashrae-127-2020?product_id=2202074",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "5b94fb0e874c",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "ASHRAE Handbook&#8212;HVAC Applications , Chapter 20, Data Centers and Telecommunication Facilities (I-P)",
+      "url": "https://store.accuristech.com/ashrae/standards/a20-data-centers-and-telecommunication-facilities-i-p?product_id=2573492",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "c015b2dc7148",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "ASHRAE Handbook&#8212;HVAC Applications , Chapter 20, Data Centers and Telecommunication Facilities (SI)",
+      "url": "https://store.accuristech.com/ashrae/standards/a20-data-centers-and-telecommunication-facilities-si?product_id=2573493",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "bfcd03672599",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Real-Time Energy Consumption Measurements in Data Centers (Book 9)",
+      "url": "https://www.techstreet.com/ashrae/standards/real-time-energy-consumption-measurements-in-data-centers?ashrae_auth_token=&gateway_code=ashrae&product_id=1703626",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "9cbf5128a9df",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Green Tips for Data Centers (Book 10)",
+      "url": "https://www.techstreet.com/ashrae/standards/green-tips-for-data-centers?ashrae_auth_token=&gateway_code=ashrae&product_id=1757806",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "d368f5ccb71f",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "IT Equipment Design Impact on Data Center Solutions (Book 13)",
+      "url": "https://www.techstreet.com/ashrae/standards/it-equipment-design-impact-on-data-center-solutions?ashrae_auth_token=&gateway_code=ashrae&product_id=1911567",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "608d2be9b2ff",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "ASHRAE eLearning Course Package: Data Center Design",
+      "url": "https://myelearning.ashrae.org/local/catalog/view/product.php?productid=108",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "dbd75911bcaf",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Advanced Concepts in Designing and Retrofitting Energy Efficient Data Centers",
+      "url": "https://www.ashrae.org/professional-development/all-instructor-led-training/catalog-of-instructor-led-training/advanced-concepts-in-designing-and-retrofitting-energy-efficient-data-centers",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "446ac07f8eb2",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Revolutionizing Data Center Sustainability With AI and Purpose-Built Solutions",
+      "url": "https://www.ashrae.org/news/ashraejournal/ashrae-journal-podcast-episode-27",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "370ca9dff684",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Energy Efficiency in Data Centers",
+      "url": "https://www.ashrae.org/news/ashraejournal/ashrae-journal-podcast-episode-22",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "8af9d3187b31",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Achieving Significant Additional Savings: Using a Data Center Upgrades Approach in Already Highly Efficient Buildings",
+      "url": "https://store.accuristech.com/ashrae/standards/achieving-significant-additional-savings-using-a-data-center-upgrades-approach-in-already-highly-efficient-buildings?product_id=2912225",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "3084f05e1f8b",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Data Centers Column: Strategies for IECC 2021 Compliance in Hot Climates With Air-Cooled Chillers",
+      "url": "https://store.accuristech.com/ashrae/standards/strategies-for-iecc-2021-compliance-in-hot-climates-with-air-cooled-chillers?product_id=2901701",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "f589df658501",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Higher-Efficiency Redundancy Strategy for Data Center Cooling",
+      "url": "https://store.accuristech.com/ashrae/standards/higher-efficiency-redundancy-strategy-for-data-center-cooling?product_id=2580571",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "32f60a6be40c",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Optimizing the Existing Data Center Environment: Using the X-Factor Reliability Metric",
+      "url": "https://store.accuristech.com/ashrae/standards/using-the-x-factor-reliability-metric?product_id=2580573",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "ff856fdeebcc",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Airflow uniformity and energy consumption investigation on data centers enhanced by jet fans",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/23744731.2023.2195805",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "fe25144a5354",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Model-based data center cooling controls comparative co-design",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/23744731.2023.2276011",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "8ae1aeb883de",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "ASHRAE Letter to GSA re Federal Data Centers",
+      "url": "https://www.ashrae.org/file%20library/about/government%20affairs/public%20policy%20resources/ashrae-ltr-to-gsa-re-federal-data-centers-02-29-2024.pdf",
+      "keywords": [
+        "data center"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "7489f56a3029",
+      "sourceId": "ashrae-datacom",
+      "sourceName": "ASHRAE Datacom",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "90.4 Standard Fact Sheet",
+      "url": "https://www.ashrae.org/file%20library/about/government%20affairs/advocacy%20toolkit/virtual%20packet/standard-90.4-2022-fact-sheet.pdf",
+      "keywords": [
+        "90.4"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "b4a079819d45",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Skip to main content",
+      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/#page-content",
+      "keywords": [
+        "NVL72"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "f2bb22c37388",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "GPU Cloud Computing",
+      "url": "https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "954e4163344f",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Learn More",
+      "url": "https://www.nvidia.com/en-us/data-center/gb300-nvl72/",
+      "keywords": [
+        "NVL72"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "cccdbe564a6f",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "HGX HGX platform specs for multi‑GPU AI, HPC, and simulation workloads",
+      "url": "https://www.nvidia.com/en-us/data-center/hgx/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "7609bbd87ce1",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "GB200 NVL72 GB200 NVL72 for scalable LLM inference and advanced AI data center needs",
+      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/",
+      "keywords": [
+        "NVL72"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "177c327172b8",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "RTX PRO 6000 Blackwell RTX PRO 6000 specs for professional AI, graphics, and visual computing tasks",
+      "url": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-6000-family/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "d0b87dc4a4bd",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "CUDA-X GPU-accelerated libraries and tools for AI, HPC, and data processing",
+      "url": "https://www.nvidia.com/en-us/technologies/cuda-x/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "a8ea8b220e8b",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Virtual GPUs",
+      "url": "https://www.nvidia.com/en-us/data-center/virtual-solutions/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "44dced9e3dc3",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Accelerated Apps Catalog Browse DPU- and GPU-accelerated apps, tools, and services",
+      "url": "https://www.nvidia.com/en-us/accelerated-applications/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "64bc3896dc5b",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "NVIDIA Run:ai AI Workload and GPU Orchestration",
+      "url": "https://www.nvidia.com/en-us/software/run-ai/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "ba1d1cb9e32b",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Blackwell Architecture The GPU architecture powering AI factories for the age of AI reasoning",
+      "url": "https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "ecf5eb9ded1d",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "NVLink and NVLink Switch High-speed interconnect for multi-GPU communication and large AI models",
+      "url": "https://www.nvidia.com/en-us/data-center/nvlink/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "6046ba1830c5",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Tensor Cores Specialized GPU cores that speed up AI and HPC math workloads",
+      "url": "https://www.nvidia.com/en-us/data-center/tensor-cores/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "68506183ed1a",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Multi-Instance GPU",
+      "url": "https://www.nvidia.com/en-us/technologies/multi-instance-gpu/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "a8081f969fe1",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Data Center GPU Line Card",
+      "url": "https://docs.nvidia.com/data-center-gpu/line-card.pdf",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "0cf035fbc400",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Data Center GPUs",
+      "url": "https://resources.nvidia.com/l/en-us-gpu",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "b495313a2adb",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Qualified System Catalog Catalog of qualified servers built with NVIDIA data center GPUs",
+      "url": "https://marketplace.nvidia.com/en-us/enterprise/qualified-system-catalog/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "51106e93ac9e",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Overview",
+      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/#intro",
+      "keywords": [
+        "NVL72"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "09a565e66321",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Highlights",
+      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/#highlights",
+      "keywords": [
+        "NVL72"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "c0c539bc15fb",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "GB200 NVL4",
+      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/#nvl4",
+      "keywords": [
+        "NVL72"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "206f91071ac6",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Features",
+      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/#features",
+      "keywords": [
+        "NVL72"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "11892101d6de",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Tech Blog",
+      "url": "https://developer.nvidia.com/blog/nvidia-gb200-nvl72-delivers-trillion-parameter-llm-training-and-real-time-inference/",
+      "keywords": [
+        "NVL72"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "7f6949a58e9f",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Notify Me",
+      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/#notify-me",
+      "keywords": [
+        "NVL72"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "18d09035ba14",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Data Center GPUs",
+      "url": "https://www.nvidia.com/en-us/data-center/data-center-gpus/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "daf93bbf4a39",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Data Center GPUs Resource Center",
+      "url": "https://www.nvidia.com/en-us/data-center/tesla-product-literature/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "a4915703d310",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "NGC Catalog",
+      "url": "https://www.nvidia.com/en-us/gpu-cloud/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "9c57e58c01fa",
+      "sourceId": "nvidia-gb200",
+      "sourceName": "NVIDIA GB200 NVL72",
+      "region": "全球",
+      "type": "AI平台",
+      "evidence": "B 企业/机构官方",
+      "title": "Qualified System Catalog",
+      "url": "https://www.nvidia.com/en-us/data-center/data-center-gpus/tesla-qualified-servers-catalog/",
+      "keywords": [
+        "GPU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "cebbcf1d44c8",
+      "sourceId": "coolit",
+      "sourceName": "CoolIT Systems",
+      "region": "全球",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "Coolant Distribution Units (CDUs)",
+      "url": "https://www.coolitsystems.com/products-services/data-center-products/cooling-distribution-units/",
+      "keywords": [
+        "CDU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "000ca474577e",
+      "sourceId": "coolit",
+      "sourceName": "CoolIT Systems",
+      "region": "全球",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "Coldplates",
+      "url": "https://www.coolitsystems.com/coldplate-technology/",
+      "keywords": [
+        "coldplate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    },
+    {
+      "id": "2303f21ff9a9",
+      "sourceId": "coolit",
+      "sourceName": "CoolIT Systems",
+      "region": "全球",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "Coldplate Loops",
+      "url": "https://www.coolitsystems.com/products-services/server-products/coldplate-loops/",
+      "keywords": [
+        "coldplate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-06T16:12:20.407Z",
+      "lastSeen": "2026-09-06T16:17:50.257Z",
+      "status": "待核验"
+    }
+  ]
+}

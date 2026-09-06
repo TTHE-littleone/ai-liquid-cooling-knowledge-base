@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ai-liquid-cooling-hub-cn.netlify.app/sitemap.xml

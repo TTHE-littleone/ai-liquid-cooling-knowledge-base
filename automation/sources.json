@@ -1,0 +1,20 @@
+[
+  {"id":"samr-standards","name":"国家标准全文公开系统","url":"https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=114934594976F57EA3F3683C13B13DB8","priority":"P0","region":"中国","type":"标准","keywords":["液冷","数据中心","冷板","48023"]},
+  {"id":"ndrc-data-center","name":"国家发展改革委数据中心政策","url":"https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20410","priority":"P0","region":"中国","type":"政策","keywords":["液冷","数据中心","绿色低碳","算力"]},
+  {"id":"miit-green-dc","name":"工信部绿色数据中心","url":"https://www.miit.gov.cn/jgsj/jns/nyjy/art/2020/art_6f66eecbc7224986b3811890d91a6f79.html","priority":"P0","region":"中国","type":"政策","keywords":["液冷","PUE","数据中心"]},
+  {"id":"gd-drc","name":"广东省数据中心政策","url":"https://drc.gd.gov.cn/gkmlpt/content/4/4077/mmpost_4077314.html","priority":"P0","region":"广东","type":"政策","keywords":["液冷","数据中心","算力","PUE"]},
+  {"id":"gd-computing","name":"广东粤算行动","url":"https://www.cagd.gov.cn/v/2024/03/4773.html","fallbackUrls":["https://www.bing.com/news/search?q=site%3Acagd.gov.cn+%E6%B6%B2%E5%86%B7+%E7%AE%97%E5%8A%9B&format=rss"],"priority":"P0","region":"广东","type":"政策","keywords":["液冷","智算中心","算力基础设施"]},
+  {"id":"ocp-acs","name":"OCP Advanced Cooling Solutions","url":"https://www.opencompute.org/wiki/Cooling_Environments_Advanced_Cooling_Solutions","fallbackUrls":["https://www.bing.com/news/search?q=site%3Aopencompute.org+liquid+cooling&format=rss"],"priority":"P0","region":"全球","type":"标准","keywords":["liquid cooling","cold plate","immersion","CDU","UQD"]},
+  {"id":"ocp-cold-plate","name":"OCP Cold Plate","url":"https://www.opencompute.org/wiki/Cooling_Environments/Cold_Plate","fallbackUrls":["https://www.bing.com/news/search?q=site%3Aopencompute.org+cold+plate+cooling&format=rss"],"priority":"P0","region":"全球","type":"标准","keywords":["cold plate","coolant","connector","CDU"]},
+  {"id":"ashrae-datacom","name":"ASHRAE Datacom","url":"https://www.ashrae.org/technical-resources/bookstore/datacom-series","priority":"P0","region":"全球","type":"标准","keywords":["liquid cooling","data center","thermal","90.4"]},
+  {"id":"nvidia-gb200","name":"NVIDIA GB200 NVL72","url":"https://www.nvidia.com/en-us/data-center/gb200-nvl72/","priority":"P0","region":"全球","type":"AI平台","keywords":["liquid cooling","NVL72","rack","GPU"]},
+  {"id":"envicool","name":"英维克","url":"https://www.envicool.com/","fallbackUrls":["https://www.bing.com/news/search?q=site%3Aenvicool.com+%E6%B6%B2%E5%86%B7&format=rss"],"priority":"P0","region":"深圳","type":"企业","keywords":["液冷","CDU","冷板","快速接头","AI"]},
+  {"id":"huawei-aidc","name":"华为数字能源AIDC","url":"https://digitalpower.huawei.com/cn/data-center-facility/smart-cooling","priority":"P0","region":"深圳/东莞","type":"企业","keywords":["液冷","热管理","AIDC","智算"]},
+  {"id":"shenling","name":"申菱环境","url":"https://www.shenling.com/applications/data-services/idc/","priority":"P0","region":"佛山","type":"企业","keywords":["液冷","CDU","AI","数据中心"]},
+  {"id":"frd","name":"飞荣达","url":"https://www.frd.cn/products.aspx","priority":"P1","region":"深圳","type":"结构件","keywords":["液冷模组","液冷板","AI服务器","CNC"]},
+  {"id":"minglida","name":"铭利达讯凌新","url":"https://www.minglidagroup.com/zh_CN/products/18.html","priority":"P1","region":"东莞","type":"结构件","keywords":["液冷","CDU","冷板","CNC","服务器"]},
+  {"id":"coolit","name":"CoolIT Systems","url":"https://www.coolitsystems.com/resources/news/","priority":"P0","region":"全球","type":"企业","keywords":["liquid cooling","CDU","coldplate","AI"]},
+  {"id":"schneider-liquid","name":"Schneider Electric液冷","url":"https://www.se.com/us/en/about-us/newsroom/","priority":"P0","region":"全球","type":"企业","keywords":["liquid cooling","Motivair","CDU","AI factory"]},
+  {"id":"vertiv-liquid","name":"Vertiv液冷","url":"https://www.vertiv.com/en-emea/products-catalog/thermal-management/high-density-solutions/liebert-xdu-x-treme-density-coolant-distribution-unit/","priority":"P0","region":"全球","type":"企业","keywords":["liquid cooling","XDU","CDU","high density"]},
+  {"id":"supermicro-liquid","name":"Supermicro液冷","url":"https://www.supermicro.com/en/solutions/liquid-cooling","priority":"P0","region":"全球","type":"服务器","keywords":["liquid cooling","DLC","CDU","AI rack"]}
+]
