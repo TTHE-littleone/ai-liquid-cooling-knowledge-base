@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T00:27:50.118Z",
+  "generatedAt": "2026-09-07T00:51:01.410Z",
   "period": {
     "start": "2026-08-30",
     "end": "2026-09-07"
@@ -20,7 +20,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -56,7 +56,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -74,7 +74,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -92,7 +92,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -110,7 +110,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -128,7 +128,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -164,7 +164,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -182,7 +182,169 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "status": "待核验"
+    },
+    {
+      "id": "bf201d2e271c",
+      "sourceId": "submer-products",
+      "sourceName": "Submer浸没产品",
+      "region": "全球",
+      "type": "浸没产品",
+      "evidence": "D 线索待核验",
+      "title": "Skip to main content",
+      "url": "https://submer.com/immersion-cooling/#brx-content",
+      "keywords": [
+        "immersion",
+        "AI"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T00:47:12.652Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "status": "待核验"
+    },
+    {
+      "id": "e26d8d1570eb",
+      "sourceId": "submer-products",
+      "sourceName": "Submer浸没产品",
+      "region": "全球",
+      "type": "浸没产品",
+      "evidence": "D 线索待核验",
+      "title": "SmartPod EVO",
+      "url": "https://submer.com/smartpod/smartpod-evo-the-easiest-path-to-immersion-cooling-submer/",
+      "keywords": [
+        "immersion",
+        "SmartPod"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T00:47:12.652Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "status": "待核验"
+    },
+    {
+      "id": "07061ca81d76",
+      "sourceId": "grc-products",
+      "sourceName": "GRC ICEraQ产品",
+      "region": "全球",
+      "type": "浸没产品",
+      "evidence": "D 线索待核验",
+      "title": "Skip to main content",
+      "url": "https://www.grcooling.com/iceraq/#content",
+      "keywords": [
+        "ICEraQ",
+        "AI"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T00:47:12.652Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "status": "待核验"
+    },
+    {
+      "id": "3a1a427d0a80",
+      "sourceId": "grc-products",
+      "sourceName": "GRC ICEraQ产品",
+      "region": "全球",
+      "type": "浸没产品",
+      "evidence": "D 线索待核验",
+      "title": "Underfloor CDU",
+      "url": "https://www.grcooling.com/iceraq/#",
+      "keywords": [
+        "ICEraQ",
+        "CDU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T00:47:12.652Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "status": "待核验"
+    },
+    {
+      "id": "a4cc15aa4a22",
+      "sourceId": "grc-products",
+      "sourceName": "GRC ICEraQ产品",
+      "region": "全球",
+      "type": "浸没产品",
+      "evidence": "D 线索待核验",
+      "title": "Product Specs",
+      "url": "https://www.grcooling.com/learning-center/iceraq-micro-immersion-cooled-rack/",
+      "keywords": [
+        "immersion",
+        "ICEraQ"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T00:47:12.652Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "status": "待核验"
+    },
+    {
+      "id": "9695981de6c6",
+      "sourceId": "cpc-everis",
+      "sourceName": "CPC Everis液冷快接",
+      "region": "全球",
+      "type": "快接",
+      "evidence": "D 线索待核验",
+      "title": "Universal Quick Disconnects (UQDs)",
+      "url": "https://www.cpcworldwide.com/Liquid-Cooling/Products/Universal-Quick-Disconnects-UQDs",
+      "keywords": [
+        "UQD",
+        "quick disconnect"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T00:47:12.652Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "status": "待核验"
+    },
+    {
+      "id": "95ba39f08e34",
+      "sourceId": "cpc-everis",
+      "sourceName": "CPC Everis液冷快接",
+      "region": "全球",
+      "type": "快接",
+      "evidence": "D 线索待核验",
+      "title": "Everis &reg; UQD02 Materials 303 Stainless Steel Termination Sizes 1/4\" Connection Options Universal Quick Disconnect Mounting Options In-Line",
+      "url": "https://www.cpcworldwide.com/Liquid-Cooling/Everis/UQD02",
+      "keywords": [
+        "UQD",
+        "quick disconnect"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T00:47:12.652Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "status": "待核验"
+    },
+    {
+      "id": "da5b5fe21f5f",
+      "sourceId": "cpc-everis",
+      "sourceName": "CPC Everis液冷快接",
+      "region": "全球",
+      "type": "快接",
+      "evidence": "D 线索待核验",
+      "title": "Everis &reg; UQD04 & UQDB04 Materials 304 Stainless Steel Termination Sizes 3/8\" 1/2\" Connection Options Blind Mate Mounting Options In-Line",
+      "url": "https://www.cpcworldwide.com/Liquid-Cooling/Everis/UQD04-UQDB04-V2",
+      "keywords": [
+        "UQD",
+        "blind mate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T00:47:12.652Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "status": "待核验"
+    },
+    {
+      "id": "23809fb8e93b",
+      "sourceId": "cpc-everis",
+      "sourceName": "CPC Everis液冷快接",
+      "region": "全球",
+      "type": "快接",
+      "evidence": "D 线索待核验",
+      "title": "Everis &reg; UQD08 & UQDB08 Materials Stainless Steel Termination Sizes 5/8\" 3/4\" Connection Options Blind Mate Mounting Options In-Line",
+      "url": "https://www.cpcworldwide.com/Liquid-Cooling/Everis/UQD08-UQDB08",
+      "keywords": [
+        "UQD",
+        "blind mate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T00:47:12.652Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -200,7 +362,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-07T00:24:54.785Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -218,7 +380,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-07T00:24:54.785Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -236,7 +398,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-07T00:24:54.785Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -254,7 +416,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-07T00:24:54.785Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -271,7 +433,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -288,7 +450,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -305,7 +467,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -322,7 +484,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -339,7 +501,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -356,7 +518,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -373,7 +535,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -390,7 +552,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -407,7 +569,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -424,7 +586,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -441,7 +603,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -458,7 +620,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -475,7 +637,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -492,7 +654,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -509,7 +671,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -526,7 +688,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -543,7 +705,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -560,7 +722,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -577,7 +739,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -594,7 +756,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -611,7 +773,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -628,7 +790,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -645,7 +807,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -662,7 +824,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -679,7 +841,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -696,7 +858,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -713,7 +875,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -730,7 +892,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -747,7 +909,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -764,7 +926,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -781,7 +943,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -798,7 +960,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -815,7 +977,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -832,7 +994,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -849,7 +1011,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -866,7 +1028,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     },
     {
@@ -883,160 +1045,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
-      "status": "待核验"
-    },
-    {
-      "id": "51106e93ac9e",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Overview",
-      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/#intro",
-      "keywords": [
-        "NVL72"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
-      "status": "待核验"
-    },
-    {
-      "id": "09a565e66321",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Highlights",
-      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/#highlights",
-      "keywords": [
-        "NVL72"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
-      "status": "待核验"
-    },
-    {
-      "id": "c0c539bc15fb",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "GB200 NVL4",
-      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/#nvl4",
-      "keywords": [
-        "NVL72"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
-      "status": "待核验"
-    },
-    {
-      "id": "206f91071ac6",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Features",
-      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/#features",
-      "keywords": [
-        "NVL72"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
-      "status": "待核验"
-    },
-    {
-      "id": "11892101d6de",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Tech Blog",
-      "url": "https://developer.nvidia.com/blog/nvidia-gb200-nvl72-delivers-trillion-parameter-llm-training-and-real-time-inference/",
-      "keywords": [
-        "NVL72"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
-      "status": "待核验"
-    },
-    {
-      "id": "7f6949a58e9f",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Notify Me",
-      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/#notify-me",
-      "keywords": [
-        "NVL72"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
-      "status": "待核验"
-    },
-    {
-      "id": "18d09035ba14",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Data Center GPUs",
-      "url": "https://www.nvidia.com/en-us/data-center/data-center-gpus/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
-      "status": "待核验"
-    },
-    {
-      "id": "daf93bbf4a39",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Data Center GPUs Resource Center",
-      "url": "https://www.nvidia.com/en-us/data-center/tesla-product-literature/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
-      "status": "待核验"
-    },
-    {
-      "id": "a4915703d310",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "NGC Catalog",
-      "url": "https://www.nvidia.com/en-us/gpu-cloud/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:24:54.785Z",
+      "lastSeen": "2026-09-07T00:50:15.395Z",
       "status": "待核验"
     }
   ]

@@ -60,12 +60,31 @@ export const companies = [
 ];
 
 export const products = [
-  {name:"CHx2000",vendor:"CoolIT Systems",type:"液-液行级CDU",capacity:"2,000 kW",flow:"2,125 L/min（厂商条件）",interface:"4英寸 Tri-Clamp",status:"已公开",source:"https://www.coolitsystems.com/cdu-product/chx2000/"},
-  {name:"MCDU-70",vendor:"Motivair by Schneider",type:"液-液CDU",capacity:"2.5 MW",flow:"待产品表核验",interface:"模块化扩展",status:"2026年发布",source:"https://www.se.com/us/en/about-us/newsroom/news/press-releases/motivair-by-schneider-electric-announces-new-cdu-with-capability-to-scale-to-10mw-and-beyond-for-nextgen-ai-factories-69705c3655f8517e99086bbd/"},
-  {name:"Liebert XDU 450",vendor:"Vertiv",type:"液-液CDU",capacity:"450 kW",flow:"按选型表",interface:"一次/二次侧隔离",status:"已公开",source:"https://www.vertiv.com/493535/globalassets/products/thermal-management/high-density-solutions/vertiv-liebert-xdu-coolant-distribution-units/liebert-xdu450-cdu-ds-emea--rev.-01-jan-2023.pdf"},
+  {name:"CHx2000",vendor:"CoolIT Systems",type:"液-液行级CDU",capacity:"2,000 kW（5°C ATD）",flow:"一次侧2,550 / 二次侧2,400 L/min，PG25",interface:"4英寸 Victaulic；25 μm过滤",status:"已公开",source:"https://www.coolitsystems.com/wp-content/uploads/2025/04/CoolIT-ProductBrochure-CHx2000.pdf"},
+  {name:"AHx240",vendor:"CoolIT Systems",type:"液-气行级CDU",capacity:"240 kW（15°C ATD）",flow:"280 L/min @ 35 psi",interface:"无需设施水；关键部件N+N",status:"已公开",source:"https://www.coolitsystems.com/cdu-product/ahx240/"},
+  {name:"AHx180",vendor:"CoolIT Systems",type:"液-气行级CDU",capacity:"180 kW",flow:"官网未披露完整流量曲线",interface:"无需设施水；标准机房风量设计",status:"已公开",source:"https://www.coolitsystems.com/resources/news/coolit-systems-launches-three-high-density-coolant-distribution-units/"},
+  {name:"CHx500",vendor:"CoolIT Systems",type:"液-液机架CDU",capacity:"500 kW/单元；4单元2 MW/机架",flow:"官网未披露完整流量曲线",interface:"模块化堆叠；支持ASHRAE W45",status:"已公开",source:"https://www.coolitsystems.com/resources/news/coolit-systems-launches-three-high-density-coolant-distribution-units/"},
+  {name:"CHx80",vendor:"CoolIT Systems",type:"液-液机架CDU",capacity:"80 kW",flow:"官网未披露完整流量曲线",interface:"4U；最多管理100台服务器",status:"已公开",source:"https://www.coolitsystems.com/product/chx80v2-cdu/"},
+  {name:"4000W Split-Flow冷板",vendor:"CoolIT Systems",type:"单相直接芯片冷板",capacity:">4,000 W芯片热负载",flow:"6 L/min；捕获>97%热量",interface:"水/水-乙二醇；全回路压降≤8 psi",status:"验证样件",source:"https://www.coolitsystems.com/resources/news/coolits-4000w-coldplate-establishes-single-phase-direct-liquid-cooling-technology-leadership/"},
+  {name:"MCDU-70",vendor:"Motivair by Schneider",type:"液-液行级CDU",capacity:"2.5 MW",flow:"目标1.5 L/min·kW",interface:"双换热器；并联过滤；模块化扩展",status:"2026年可订购",source:"https://www.se.com/us/en/about-us/newsroom/news/press-releases/motivair-by-schneider-electric-announces-new-cdu-with-capability-to-scale-to-10mw-and-beyond-for-nextgen-ai-factories-69705c3655f8517e99086bbd/"},
+  {name:"Liebert XDU 450",vendor:"Vertiv",type:"液-液行级CDU",capacity:"453 kW（4°C ATD）",flow:"按选型表核定",interface:"一次/二次侧隔离；50 μm过滤",status:"已公开",source:"https://www.vertiv.com/493535/globalassets/products/thermal-management/high-density-solutions/vertiv-liebert-xdu-coolant-distribution-units/liebert-xdu450-cdu-ds-emea--rev.-01-jan-2023.pdf"},
+  {name:"Liebert XDU 1350",vendor:"Vertiv",type:"液-液行级CDU",capacity:"1,368 kW（4°C ATD）",flow:"1,200 L/min @ 2.44 bar（双泵）",interface:"4英寸卫生法兰；可选50 μm过滤",status:"已公开",source:"https://www.vertiv.com/4938c6/globalassets/products/thermal-management/high-density-solutions/vertiv-liebert-xdu-coolant-distribution-units/vertiv-liebert-xdu1350-cdu-ds-a4-emea-mka4l0ukxduds1350-web.pdf"},
   {name:"FusionCol600-L450MA",vendor:"华为数字能源",type:"热管理控制器",capacity:"型号信息待核验",flow:"待产品表核验",interface:"高密智算液冷",status:"官网在售",source:"https://digitalpower.huawei.com/cn/data-center-facility/smart-cooling"},
   {name:"DLC-2",vendor:"Supermicro",type:"整机柜D2C方案",capacity:"机柜级方案",flow:"随配置",interface:"冷板/CDU/CDM/管路",status:"已公开",source:"https://www.supermicro.com/datasheet/Datasheet_Supermicro_DLC-2.pdf"},
   {name:"Coolinside",vendor:"英维克",type:"全链条冷板式液冷",capacity:"多规格",flow:"随配置",interface:"冷板/CDU/UQD/工质/管路",status:"官网在售",source:"https://www.envicool.com/solution/24.html"},
+  {name:"DataTank 48U",vendor:"LiquidStack",type:"两相浸没系统",capacity:"最高252 kW",flow:"被动两相循环；无IT侧泵",interface:"48U；N/N+1/2N冷凝盘管可选",status:"已公开",source:"https://liquidstack.com/liquid-cooling/datatank-48u"},
+  {name:"DataTank 4U",vendor:"LiquidStack",type:"两相浸没系统",capacity:"最高6 kW",flow:"被动两相循环",interface:"4U边缘/演示型系统",status:"已公开",source:"https://liquidstack.com/news/liquidstack-to-showcase-immersion-ready-servers-from-equus-compute-solutions-at-gitex-global-in-dubai"},
+  {name:"SmartPod EVO",vendor:"Submer",type:"单相浸没系统",capacity:"140 kW以上",flow:"随单/双CDU配置",interface:"模块化；面向规模化部署",status:"官网在售",source:"https://submer.com/immersion-cooling/"},
+  {name:"SmartPod EXO",vendor:"Submer",type:"单相浸没系统",capacity:"最高361 kW（视工况）",flow:"系统最大功耗3,350 W（视配置）",interface:"50 RU IT容量；19/21英寸设备",status:"官网在售",source:"https://submer.com/smartpod/exo/"},
+  {name:"MicroPod",vendor:"Submer",type:"单相浸没边缘系统",capacity:"最高7 kW",flow:"集成二次冷却",interface:"数据中心盒；无直接耗水",status:"官网在售",source:"https://submer.com/immersion-cooling/"},
+  {name:"ICEraQ Nano",vendor:"GRC",type:"单相浸没边缘系统",capacity:"最高13 kW",flow:"集成液-气换热；无需冷冻水",interface:"10U浸没区；4U干区",status:"2025年发布",source:"https://www.grcooling.com/press_releases/grc-expands-immersion-cooling-to-the-edge-with-new-iceraq-nano-system/"},
+  {name:"ICEraQ Micro",vendor:"GRC",type:"单相浸没系统",capacity:"45 kW@32°C水 / 90 kW@13°C水",flow:"随设施水工况",interface:"24U浸没区；集成CDU",status:"官网在售",source:"https://www.grcooling.com/iceraq/"},
+  {name:"ICEraQ FLEX",vendor:"GRC",type:"单相浸没系统",capacity:"200 kW@32°C / 368 kW@13°C",flow:"循环水21–30 m³/h",interface:"1/2/4个42U机架；CDU最大功耗5.6 kW",status:"官网在售",source:"https://www.grcooling.com/wp-content/uploads/grc_iceraq_flex_data_sheet.pdf"},
+  {name:"Everis UQD04 / UQDB04",vendor:"CPC",type:"液冷快接",capacity:"1/4英寸名义流径",flow:"Cv 1.3 / Kv 1.1（水、室温曲线）",interface:"OCP UQD；直插/盲插配置",status:"官网在售",source:"https://sit.cpcworldwide.com/Portals/0/Downloadable-Content/TRM/Literature/Brochures/liquid-cooling-market-segment-brochure-hpc-data-centers.pdf"},
+  {name:"Castrol ON PG 25",vendor:"Castrol",type:"直接芯片冷却液",capacity:"预混PG25，即用型",flow:"粘度/换热参数见地区PDS",interface:"丙二醇体系；防腐、抑菌、材料兼容",status:"官网在售",source:"https://www.castrol.com/en/global/corporate/products/data-centre-and-it-cooling/castrol-on-liquid-cooling-customer-hub.html"},
+  {name:"Castrol ON DC 15",vendor:"Castrol",type:"单相浸没冷却液",capacity:"合成烃介电液",flow:"低粘度；参数见PDS",interface:"适配常见弹性体、塑料与金属",status:"官网在售",source:"https://www.castrol.com/en/global/corporate/products/data-centre-and-it-cooling/immersion-cooling-fluids.html.html"},
+  {name:"Castrol ON DC 20",vendor:"Castrol",type:"单相浸没冷却液",capacity:"合成介电液",flow:"低粘度；参数见PDS",interface:"强调氧化、低温与水解稳定性",status:"官网在售",source:"https://www.castrol.com/en/global/corporate/products/data-centre-and-it-cooling/immersion-cooling-fluids.html.html"},
+  {name:"Opteon 2P50",vendor:"Chemours",type:"两相浸没冷却液",capacity:"沸点48.9°C；GWP 10（AR6）",flow:"25°C粘度0.62 cP",interface:"介电常数1.82；无闪点",status:"开发型/已通过部件资格验证",source:"https://www.chemours.com/en/-/media/files/opteon/opteon-2p50-gic-product-info-sheet-fnl-100523.pdf?rev=7bd3bc18790a4c8bbf22a89e82fdf4b0"},
 ];
 
 export const standards = [
@@ -192,6 +211,12 @@ export const sources = [
   {name:"企业年度报告",type:"财务",region:"全球",priority:"P0",method:"监管披露",url:"https://www.cninfo.com.cn/"},
   {name:"Dell'Oro Data Center Liquid Cooling",type:"全球市场规模",region:"全球",priority:"P1",method:"报告摘要",url:"https://www.delloro.com/news/data-center-liquid-cooling-market-to-approach-7-billion-by-2029-as-ai-deployments-accelerate/"},
   {name:"TrendForce AI液冷",type:"全球渗透率/供应链",region:"全球",priority:"P1",method:"新闻稿",url:"https://www.trendforce.com/presscenter/news/20260817-13183.html"},
+  {name:"LiquidStack",type:"两相浸没系统",region:"全球",priority:"P1",method:"产品与文档",url:"https://liquidstack.com/liquid-cooling/datatank-48u"},
+  {name:"Submer",type:"单相浸没系统",region:"全球",priority:"P1",method:"产品与文档",url:"https://submer.com/immersion-cooling/"},
+  {name:"GRC",type:"单相浸没系统",region:"全球",priority:"P1",method:"产品与文档",url:"https://www.grcooling.com/iceraq/"},
+  {name:"CPC Everis",type:"液冷快接",region:"全球",priority:"P1",method:"产品与数据表",url:"https://www.cpcworldwide.com/Liquid-Cooling/Everis"},
+  {name:"Castrol ON",type:"直接芯片/浸没冷却液",region:"全球",priority:"P1",method:"产品数据表",url:"https://www.castrol.com/en/global/corporate/products/data-centre-and-it-cooling/castrol-on-liquid-cooling-customer-hub.html"},
+  {name:"Chemours Opteon",type:"两相浸没冷却液",region:"全球",priority:"P1",method:"产品数据表",url:"https://www.chemours.com/en/-/media/files/opteon/opteon-2p50-gic-product-info-sheet-fnl-100523.pdf?rev=7bd3bc18790a4c8bbf22a89e82fdf4b0"},
 ];
 
 export const searchIndex = [
