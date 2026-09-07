@@ -16,5 +16,7 @@
   {"id":"coolit","name":"CoolIT Systems","url":"https://www.coolitsystems.com/resources/news/","priority":"P0","region":"全球","type":"企业","keywords":["liquid cooling","CDU","coldplate","AI"]},
   {"id":"schneider-liquid","name":"Schneider Electric液冷","url":"https://www.se.com/us/en/about-us/newsroom/","priority":"P0","region":"全球","type":"企业","keywords":["liquid cooling","Motivair","CDU","AI factory"]},
   {"id":"vertiv-liquid","name":"Vertiv液冷","url":"https://www.vertiv.com/en-emea/products-catalog/thermal-management/high-density-solutions/liebert-xdu-x-treme-density-coolant-distribution-unit/","priority":"P0","region":"全球","type":"企业","keywords":["liquid cooling","XDU","CDU","high density"]},
-  {"id":"supermicro-liquid","name":"Supermicro液冷","url":"https://www.supermicro.com/en/solutions/liquid-cooling","priority":"P0","region":"全球","type":"服务器","keywords":["liquid cooling","DLC","CDU","AI rack"]}
+  {"id":"supermicro-liquid","name":"Supermicro液冷","url":"https://www.supermicro.com/en/solutions/liquid-cooling","priority":"P0","region":"全球","type":"服务器","keywords":["liquid cooling","DLC","CDU","AI rack"]},
+  {"id":"delloro-liquid-market","name":"Dell'Oro全球数据中心液冷市场","url":"https://www.delloro.com/news/data-center-liquid-cooling-market-to-approach-7-billion-by-2029-as-ai-deployments-accelerate/","priority":"P1","region":"全球","type":"市场规模","keywords":["liquid cooling","billion","revenue","AI","data center"]},
+  {"id":"trendforce-liquid-penetration","name":"TrendForce AI液冷渗透率","url":"https://www.trendforce.com/presscenter/news/20260817-13183.html","priority":"P1","region":"全球","type":"市场规模","keywords":["liquid cooling","penetration","AI","chip","server"]}
 ]

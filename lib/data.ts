@@ -81,10 +81,14 @@ export const standards = [
 ];
 
 export const marketData = [
-  {metric:"中国液冷服务器市场规模",period:"2024",value:"23.7亿美元",change:"同比 +67.0%",scope:"液冷服务器销售额；非整个液冷基础设施市场",evidence:"C 权威转引" as Evidence,source:"https://xxzx.fujian.gov.cn/jjxx/xxhdt/202505/t20250509_6910026.htm"},
-  {metric:"中国液冷服务器出货量",period:"2024",value:"超过23万台",change:"IDC跟踪口径",scope:"服务器台数，不能与CDU/冷板收入相加",evidence:"C 权威转引" as Evidence,source:"https://xxzx.fujian.gov.cn/jjxx/xxhdt/202505/t20250509_6910026.htm"},
-  {metric:"中国液冷服务器预测",period:"2024-2029",value:"CAGR 46.8%",change:"2029年162亿美元",scope:"预测值，需随IDC新版本滚动更新",evidence:"C 权威转引" as Evidence,source:"https://xxzx.fujian.gov.cn/jjxx/xxhdt/202505/t20250509_6910026.htm"},
-  {metric:"市场集中度信号",period:"2024",value:"前三约七成",change:"浪潮、超聚变、宁畅",scope:"按厂商销售额；具体份额需购买/核验原报告",evidence:"C 权威转引" as Evidence,source:"https://xxzx.fujian.gov.cn/jjxx/xxhdt/202505/t20250509_6910026.htm"},
+  {metric:"全球数据中心液冷厂商收入",region:"全球",period:"2025E",value:"接近30亿美元",change:"约为2024年的2倍",scope:"Dell'Oro厂商收入口径；覆盖直接液冷、浸没与后门换热等，不能与服务器销售额相加",evidence:"B 企业官方" as Evidence,source:"https://www.delloro.com/news/data-center-liquid-cooling-market-to-approach-7-billion-by-2029-as-ai-deployments-accelerate/"},
+  {metric:"全球数据中心液冷收入预测",region:"全球",period:"2029E",value:"约70亿美元",change:"2025E→2029E约2.3倍",scope:"Dell'Oro厂商收入预测；不是AI服务器整机市场规模",evidence:"B 企业官方" as Evidence,source:"https://www.delloro.com/news/data-center-liquid-cooling-market-to-approach-7-billion-by-2029-as-ai-deployments-accelerate/"},
+  {metric:"AI芯片液冷渗透率",region:"全球",period:"2026E",value:"53%",change:"2025约33%；2027接近60%",scope:"TrendForce AI芯片采用率口径；不是所有服务器或所有数据中心的渗透率",evidence:"B 企业官方" as Evidence,source:"https://www.trendforce.com/presscenter/news/20260817-13183.html"},
+  {metric:"中国液冷数据中心基础设施市场",region:"中国",period:"2025",value:"159.8亿元",change:"同比 +45.2%；2026E 232.5亿元",scope:"赛迪顾问报告的权威媒体转引；不含服务器，不能与液冷服务器销售额相加",evidence:"C 权威转引" as Evidence,source:"https://www.nbd.com.cn/articles/2026-06-16/4428252.html"},
+  {metric:"中国液冷服务器市场规模",region:"中国",period:"2024",value:"23.7亿美元",change:"同比 +67.0%",scope:"液冷服务器销售额；非整个液冷基础设施市场",evidence:"C 权威转引" as Evidence,source:"https://xxzx.fujian.gov.cn/jjxx/xxhdt/202505/t20250509_6910026.htm"},
+  {metric:"中国液冷服务器出货量",region:"中国",period:"2024",value:"超过23万台",change:"IDC跟踪口径",scope:"服务器台数，不能与CDU/冷板收入相加",evidence:"C 权威转引" as Evidence,source:"https://xxzx.fujian.gov.cn/jjxx/xxhdt/202505/t20250509_6910026.htm"},
+  {metric:"中国液冷服务器预测",region:"中国",period:"2024-2029",value:"CAGR 46.8%",change:"2029年162亿美元",scope:"IDC预测的液冷服务器销售额，需随新版数据滚动更新",evidence:"C 权威转引" as Evidence,source:"https://xxzx.fujian.gov.cn/jjxx/xxhdt/202505/t20250509_6910026.htm"},
+  {metric:"中国液冷服务器市场集中度",region:"中国",period:"2024",value:"前三约七成",change:"浪潮、超聚变、宁畅",scope:"按厂商销售额；具体份额需购买或核验IDC原报告",evidence:"C 权威转引" as Evidence,source:"https://xxzx.fujian.gov.cn/jjxx/xxhdt/202505/t20250509_6910026.htm"},
 ];
 
 export const financials = [
@@ -186,6 +190,8 @@ export const sources = [
   {name:"Supermicro",type:"AI服务器/整机柜",region:"全球",priority:"P0",method:"产品与文档",url:"https://www.supermicro.com/en/solutions/liquid-cooling"},
   {name:"IDC公开摘要与政府转引",type:"市场规模",region:"中国",priority:"P1",method:"交叉核验",url:"https://www.idc.com/"},
   {name:"企业年度报告",type:"财务",region:"全球",priority:"P0",method:"监管披露",url:"https://www.cninfo.com.cn/"},
+  {name:"Dell'Oro Data Center Liquid Cooling",type:"全球市场规模",region:"全球",priority:"P1",method:"报告摘要",url:"https://www.delloro.com/news/data-center-liquid-cooling-market-to-approach-7-billion-by-2029-as-ai-deployments-accelerate/"},
+  {name:"TrendForce AI液冷",type:"全球渗透率/供应链",region:"全球",priority:"P1",method:"新闻稿",url:"https://www.trendforce.com/presscenter/news/20260817-13183.html"},
 ];
 
 export const searchIndex = [
@@ -196,4 +202,5 @@ export const searchIndex = [
   ...standards.map(x=>({title:x.code,type:"标准",summary:`${x.title}｜${x.region}｜${x.date}`,url:"/standards"})),
   ...projects.map(x=>({title:x.name,type:"项目",summary:`${x.place}｜${x.signal}`,url:"/projects"})),
   ...machineModels.map(x=>({title:`乔锋 ${x.name}`,type:"机床",summary:`${x.positioning}｜${x.travel}｜${x.liquidCoolingFit}`,url:"/manufacturing"})),
+  ...marketData.map(x=>({title:x.metric,type:"市场",summary:`${x.region}｜${x.period}｜${x.value}｜${x.scope}`,url:"/market"})),
 ];

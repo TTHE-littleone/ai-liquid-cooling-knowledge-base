@@ -7,7 +7,7 @@ const report={generatedAt:now.toISOString(),period:{start,end},items:selected};
 await fs.writeFile("content/weekly-generated.json",JSON.stringify(report,null,2)+"\n");
 await fs.mkdir("public/reports",{recursive:true});
 const lines=[`# AI液冷产业周报（${start}—${end}）`,``,`本周自动发现 ${selected.length} 条候选信息。所有内容仍按证据等级区分，低可信线索不视为确定事实。`,""];
-for(const group of ["标准","政策","企业","服务器","AI平台","结构件"]) {
+for(const group of ["市场规模","标准","政策","企业","服务器","AI平台","结构件"]) {
   const rows=selected.filter(x=>x.type===group); if(!rows.length) continue;
   lines.push(`## ${group}`,""); for(const row of rows) lines.push(`- [${row.title}](${row.url})｜${row.sourceName}｜${row.region}｜${row.status}`); lines.push("");
 }
