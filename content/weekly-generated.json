@@ -1,10 +1,64 @@
 {
-  "generatedAt": "2026-09-07T00:51:01.410Z",
+  "generatedAt": "2026-09-07T11:54:37.764Z",
   "period": {
     "start": "2026-08-30",
     "end": "2026-09-07"
   },
   "items": [
+    {
+      "id": "30c1208fa234",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "7.2 Cold Plate Coolant Liquids Workstream",
+      "url": "https://www.opencompute.org/wiki/Cooling_Environments/Cold_Plate#Cold_Plate_Coolant_Liquids_Workstream",
+      "keywords": [
+        "cold plate",
+        "coolant"
+      ],
+      "score": 4,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "35a907245060",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Zoom Link to Cold Plate Coolant Liquids Workstream Calls",
+      "url": "https://opencompute-org.zoom.us/j/88153736938?pwd=ZmdrZkZhT09ucCtzZ2dyRnJyUEJMUT09",
+      "keywords": [
+        "cold plate",
+        "coolant"
+      ],
+      "score": 4,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "e5ba68269158",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Zoom Link to Cold Plate Coolant Liquids Workstream Calls",
+      "url": "https://opencompute-org.zoom.us/j/84792940071?pwd=WGbBA2ayetticznkRpXE7cX1qmFQ2x.1",
+      "keywords": [
+        "cold plate",
+        "coolant"
+      ],
+      "score": 4,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
     {
       "id": "0987ebd0b558",
       "sourceId": "ndrc-data-center",
@@ -20,7 +74,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -38,7 +92,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -56,7 +110,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -74,7 +128,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -92,7 +146,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -110,7 +164,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -128,7 +182,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -146,7 +200,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -164,7 +218,7 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -182,7 +236,381 @@
       ],
       "score": 4,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "4a28164662a2",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "3 Cold Plate Important Links",
+      "url": "https://www.opencompute.org/wiki/Cooling_Environments/Cold_Plate#Cold_Plate_Important_Links",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "14a55192324b",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "7.1 Cold Plate",
+      "url": "https://www.opencompute.org/wiki/Cooling_Environments/Cold_Plate#Cold_Plate",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "f4cf7bce60c9",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "8.1 Cold Plate calls",
+      "url": "https://www.opencompute.org/wiki/Cooling_Environments/Cold_Plate#Cold_Plate_calls",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "0e44172a4c81",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "8.2 Coolant Fluids Workstream calls",
+      "url": "https://www.opencompute.org/wiki/Cooling_Environments/Cold_Plate#Coolant_Fluids_Workstream_calls",
+      "keywords": [
+        "coolant"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "8ef9cc8102a0",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "ACS Cold Plate Meeting Notes",
+      "url": "https://docs.google.com/document/d/1ruwEiTbovlWIZ_IdQ8Ts6DOQUakurR6wWS5UfiT40Ow/edit?usp=sharing",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "32f319fe4f9a",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Draft: Guideline for Using Water-Based Transfer Fluid in Single-phase Cold plate-based liquid-cooled racks (July 2024)",
+      "url": "https://docs.google.com/document/d/1RMrK_NX8ZuenUILd791IkCPz_PdqI1ok/edit",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "e1c0f64a0498",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Draft: Guidelines For Using Propylene Glycol-Based Heat Transfer Fluids In Single-Phase Cold Plate-Based Liquid Cooled Racks (Updated Version - November 2025)",
+      "url": "https://docs.google.com/document/d/1NfSgAd-Cp1ss_4wddTUUxQofwe0cJ_ot/edit",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "95980817ab5d",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Published: Guidelines for Using Dielectric Liquid-Based Transfer Fluids in two-Phase Cold Plate-Based Liquid-Cooled Racks (July 2024)",
+      "url": "https://www.opencompute.org/documents/guidelines-for-using-dielectric-heat-transfer-fluids-in-two-phase-cold-plate-based-liquid-cooled-racks-final-pdf",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "816a68984367",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Single-Phase Direct-to-Chip Cold Plate Base Specification",
+      "url": "https://docs.google.com/document/d/1NbT4HCdmqyIwZCvyViLZoWmxpkHi35Pb/edit?usp=sharing&ouid=101714258689921088884&rtpof=true&sd=true",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "878510742298",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "ACS Cold Plate Requirements Revision 1",
+      "url": "https://www.opencompute.org/documents/ocp-acs-liquid-cooling-cold-plate-requirements-pdf",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "d238534fb904",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "ACS Cold Plate Cooling Loop Requirements Revision 2",
+      "url": "https://www.opencompute.org/documents/cold-plate-cooling-loop-requirements-rev-2-pdf",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "1af114b103e4",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Guidelines for Using Propylene Glycol-Based Heat Transfer Fluids in Single-Phase Cold Plate-Based Liquid Cooled Racks",
+      "url": "https://www.opencompute.org/documents/guidelines-for-using-propylene-glycol-based-heat-transfer-fluids-in-single-phase-cold-plate-based-liquid-cooled-racks-final-pdf",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "efd967be79f1",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Guidelines for Using Water-Based Transfer Fluids in Single-Phase Cold Plate-Based Liquid-Cooled Racks",
+      "url": "https://www.opencompute.org/documents/guidelines-for-using-water-based-transfer-fluids-in-single-phase-cold-plate-based-liquid-cooled-racks-final-pdf",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "6f2022d48c48",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "ORV3 Blind Mate Quick Connector Specification (BMQC)",
+      "url": "https://www.opencompute.org/documents/orv3-blind-mate-quick-connector-specification-rev01-04june2024-pdf",
+      "keywords": [
+        "connector"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "20bbc2903e58",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "ACS Cold Plate Mailing List",
+      "url": "https://ocp-all.groups.io/g/OCP-ACS-Cold-Plate",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "42cd7cf6bf0e",
+      "sourceId": "ocp-cold-plate",
+      "sourceName": "OCP Cold Plate",
+      "region": "全球",
+      "type": "标准",
+      "evidence": "B 企业/机构官方",
+      "title": "Zoom Link to ACS Cold Plate Sub-project Calls",
+      "url": "https://opencompute-org.zoom.us/j/89439077808?pwd=ZGk1aHRJSTJFWXp6OEVlRzkvekI3dz09",
+      "keywords": [
+        "cold plate"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "162434666e9e",
+      "sourceId": "vertiv-liquid",
+      "sourceName": "Vertiv液冷",
+      "region": "全球",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "See more product information",
+      "url": "https://www.vertiv.com/en-emea/products-catalog/thermal-management/high-density-solutions/liebert-xdu450-coolant-distribution-unit/",
+      "keywords": [
+        "XDU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "e337a55b67a1",
+      "sourceId": "vertiv-liquid",
+      "sourceName": "Vertiv液冷",
+      "region": "全球",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "Vertiv Liebert XDU450 Coolant Distribution Unit Application and Planning Guide",
+      "url": "https://www.vertiv.com/48e9f4/globalassets/shared/70616-xdu450-application-and-planning-guide-rev-b_7-22-final-locked.pdf",
+      "keywords": [
+        "XDU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "8002c4ef862a",
+      "sourceId": "vertiv-liquid",
+      "sourceName": "Vertiv液冷",
+      "region": "全球",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "Liebert&#174; XDU1350 Coolant Distribution Unit Installation and Commissioning Guide (SL-70625)",
+      "url": "https://www.vertiv.com/4a480e/globalassets/shared/liebert-xdu1350-coolant-distribution-unit-installation-and-commissioning-guide-sl-70625.pdf",
+      "keywords": [
+        "XDU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "876d35f6a0cf",
+      "sourceId": "vertiv-liquid",
+      "sourceName": "Vertiv液冷",
+      "region": "全球",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "Liebert&#174; XDU070 Operating and Maintenance Guide",
+      "url": "https://www.vertiv.com/48ea2f/globalassets/shared/liebert-xdu070-operating-and-maintenance-guide-sl-71112.pdf",
+      "keywords": [
+        "XDU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "494864895c26",
+      "sourceId": "vertiv-liquid",
+      "sourceName": "Vertiv液冷",
+      "region": "全球",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "Vertiv™ Liebert&#174; XDU1350 Coolant Distribution Unit - Application and Planning Guide - GL - EN - R0225",
+      "url": "https://www.vertiv.com/4a3315/globalassets/shared/vertiv-liebert-xdu1350-coolant-distribution-unit_application-and-planning-guide_sl-71309.pdf",
+      "keywords": [
+        "XDU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
+      "status": "待核验"
+    },
+    {
+      "id": "a52dd6ea5531",
+      "sourceId": "vertiv-liquid",
+      "sourceName": "Vertiv液冷",
+      "region": "全球",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "Liebert&#174; XDU070 Coolant Distribution Unit Installation and Commissioning Guide (SL-71110)",
+      "url": "https://www.vertiv.com/48ecb4/globalassets/shared/liebert-xdu070-coolant-distribution-unit-installation-and-commissioning-guide-sl-71110.pdf",
+      "keywords": [
+        "XDU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-07T04:25:43.278Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -200,7 +628,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-07T00:47:12.652Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -218,7 +646,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-07T00:47:12.652Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -236,7 +664,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-07T00:47:12.652Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -254,7 +682,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-07T00:47:12.652Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -272,7 +700,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-07T00:47:12.652Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -362,7 +790,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-07T00:24:54.785Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -380,7 +808,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-07T00:24:54.785Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -398,7 +826,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-07T00:24:54.785Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -416,7 +844,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-07T00:24:54.785Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -433,7 +861,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -450,7 +878,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -467,7 +895,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -484,7 +912,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -501,7 +929,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -518,7 +946,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -535,7 +963,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -552,7 +980,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -569,7 +997,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -586,7 +1014,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -603,7 +1031,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     },
     {
@@ -620,432 +1048,7 @@
       ],
       "score": 3,
       "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "8af9d3187b31",
-      "sourceId": "ashrae-datacom",
-      "sourceName": "ASHRAE Datacom",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Achieving Significant Additional Savings: Using a Data Center Upgrades Approach in Already Highly Efficient Buildings",
-      "url": "https://store.accuristech.com/ashrae/standards/achieving-significant-additional-savings-using-a-data-center-upgrades-approach-in-already-highly-efficient-buildings?product_id=2912225",
-      "keywords": [
-        "data center"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "3084f05e1f8b",
-      "sourceId": "ashrae-datacom",
-      "sourceName": "ASHRAE Datacom",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Data Centers Column: Strategies for IECC 2021 Compliance in Hot Climates With Air-Cooled Chillers",
-      "url": "https://store.accuristech.com/ashrae/standards/strategies-for-iecc-2021-compliance-in-hot-climates-with-air-cooled-chillers?product_id=2901701",
-      "keywords": [
-        "data center"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "f589df658501",
-      "sourceId": "ashrae-datacom",
-      "sourceName": "ASHRAE Datacom",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Higher-Efficiency Redundancy Strategy for Data Center Cooling",
-      "url": "https://store.accuristech.com/ashrae/standards/higher-efficiency-redundancy-strategy-for-data-center-cooling?product_id=2580571",
-      "keywords": [
-        "data center"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "32f60a6be40c",
-      "sourceId": "ashrae-datacom",
-      "sourceName": "ASHRAE Datacom",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Optimizing the Existing Data Center Environment: Using the X-Factor Reliability Metric",
-      "url": "https://store.accuristech.com/ashrae/standards/using-the-x-factor-reliability-metric?product_id=2580573",
-      "keywords": [
-        "data center"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "ff856fdeebcc",
-      "sourceId": "ashrae-datacom",
-      "sourceName": "ASHRAE Datacom",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Airflow uniformity and energy consumption investigation on data centers enhanced by jet fans",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/23744731.2023.2195805",
-      "keywords": [
-        "data center"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "fe25144a5354",
-      "sourceId": "ashrae-datacom",
-      "sourceName": "ASHRAE Datacom",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Model-based data center cooling controls comparative co-design",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/23744731.2023.2276011",
-      "keywords": [
-        "data center"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "8ae1aeb883de",
-      "sourceId": "ashrae-datacom",
-      "sourceName": "ASHRAE Datacom",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "ASHRAE Letter to GSA re Federal Data Centers",
-      "url": "https://www.ashrae.org/file%20library/about/government%20affairs/public%20policy%20resources/ashrae-ltr-to-gsa-re-federal-data-centers-02-29-2024.pdf",
-      "keywords": [
-        "data center"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "7489f56a3029",
-      "sourceId": "ashrae-datacom",
-      "sourceName": "ASHRAE Datacom",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "90.4 Standard Fact Sheet",
-      "url": "https://www.ashrae.org/file%20library/about/government%20affairs/advocacy%20toolkit/virtual%20packet/standard-90.4-2022-fact-sheet.pdf",
-      "keywords": [
-        "90.4"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "b4a079819d45",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Skip to main content",
-      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/#page-content",
-      "keywords": [
-        "NVL72"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "f2bb22c37388",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "GPU Cloud Computing",
-      "url": "https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "954e4163344f",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Learn More",
-      "url": "https://www.nvidia.com/en-us/data-center/gb300-nvl72/",
-      "keywords": [
-        "NVL72"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "cccdbe564a6f",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "HGX HGX platform specs for multi‑GPU AI, HPC, and simulation workloads",
-      "url": "https://www.nvidia.com/en-us/data-center/hgx/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "7609bbd87ce1",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "GB200 NVL72 GB200 NVL72 for scalable LLM inference and advanced AI data center needs",
-      "url": "https://www.nvidia.com/en-us/data-center/gb200-nvl72/",
-      "keywords": [
-        "NVL72"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "177c327172b8",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "RTX PRO 6000 Blackwell RTX PRO 6000 specs for professional AI, graphics, and visual computing tasks",
-      "url": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-6000-family/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "d0b87dc4a4bd",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "CUDA-X GPU-accelerated libraries and tools for AI, HPC, and data processing",
-      "url": "https://www.nvidia.com/en-us/technologies/cuda-x/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "a8ea8b220e8b",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Virtual GPUs",
-      "url": "https://www.nvidia.com/en-us/data-center/virtual-solutions/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "44dced9e3dc3",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Accelerated Apps Catalog Browse DPU- and GPU-accelerated apps, tools, and services",
-      "url": "https://www.nvidia.com/en-us/accelerated-applications/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "64bc3896dc5b",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "NVIDIA Run:ai AI Workload and GPU Orchestration",
-      "url": "https://www.nvidia.com/en-us/software/run-ai/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "ba1d1cb9e32b",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Blackwell Architecture The GPU architecture powering AI factories for the age of AI reasoning",
-      "url": "https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "ecf5eb9ded1d",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "NVLink and NVLink Switch High-speed interconnect for multi-GPU communication and large AI models",
-      "url": "https://www.nvidia.com/en-us/data-center/nvlink/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "6046ba1830c5",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Tensor Cores Specialized GPU cores that speed up AI and HPC math workloads",
-      "url": "https://www.nvidia.com/en-us/data-center/tensor-cores/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "68506183ed1a",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Multi-Instance GPU",
-      "url": "https://www.nvidia.com/en-us/technologies/multi-instance-gpu/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "a8081f969fe1",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Data Center GPU Line Card",
-      "url": "https://docs.nvidia.com/data-center-gpu/line-card.pdf",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "0cf035fbc400",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Data Center GPUs",
-      "url": "https://resources.nvidia.com/l/en-us-gpu",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
-      "status": "待核验"
-    },
-    {
-      "id": "b495313a2adb",
-      "sourceId": "nvidia-gb200",
-      "sourceName": "NVIDIA GB200 NVL72",
-      "region": "全球",
-      "type": "AI平台",
-      "evidence": "B 企业/机构官方",
-      "title": "Qualified System Catalog Catalog of qualified servers built with NVIDIA data center GPUs",
-      "url": "https://marketplace.nvidia.com/en-us/enterprise/qualified-system-catalog/",
-      "keywords": [
-        "GPU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-06T16:12:20.407Z",
-      "lastSeen": "2026-09-07T00:50:15.395Z",
+      "lastSeen": "2026-09-07T04:25:43.278Z",
       "status": "待核验"
     }
   ]
