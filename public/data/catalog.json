@@ -844,6 +844,83 @@
       "machine": "立式加工中心直接适配，适合作为切入订单"
     }
   ],
+  "machineModels": [
+    {
+      "name": "T-5H",
+      "positioning": "高速钻铣加工中心",
+      "travel": "500×400×300 mm",
+      "table": "650×400 mm",
+      "load": "250 kg",
+      "spindle": "20,000 rpm｜BT30",
+      "rapid": "48/48/48 m/min",
+      "accuracy": "定位 0.005/0.005/0.005 mm｜重复 0.003/0.003/0.003 mm",
+      "toolMagazine": "21把",
+      "liquidCoolingFit": "小型铝冷板、测试夹具及机器人小件的大批量高速加工",
+      "reason": "机身紧凑，BT30与高速快移偏向节拍",
+      "salesQuestion": "工件尺寸、单件节拍、孔与攻牙数量？",
+      "source": "https://www.jirfine.com/productinfo83.html"
+    },
+    {
+      "name": "TH-540",
+      "positioning": "高速高刚性钻铣加工中心",
+      "travel": "500×400×350 mm",
+      "table": "650×400 mm",
+      "load": "250 kg",
+      "spindle": "24,000 rpm｜BT30",
+      "rapid": "48/48/48 m/min",
+      "accuracy": "定位 0.005/0.005/0.005 mm｜重复 0.003/0.003/0.003 mm",
+      "toolMagazine": "21把",
+      "liquidCoolingFit": "AI液冷板、铜铝易变形精密件和液冷服务器小型结构件",
+      "reason": "五机中主轴转速最高，兼顾高速、刚性与抗振",
+      "salesQuestion": "材质、流道深度、表面粗糙度及密封要求？",
+      "source": "https://www.jirfine.com/"
+    },
+    {
+      "name": "V-8B",
+      "positioning": "立式高速加工中心",
+      "travel": "820×550×550 mm",
+      "table": "1000×500 mm",
+      "load": "600 kg",
+      "spindle": "12,000 rpm｜BT40",
+      "rapid": "48/48/48 m/min",
+      "accuracy": "定位 0.008/0.006/0.006 mm｜重复 0.005/0.004/0.004 mm",
+      "toolMagazine": "24把",
+      "liquidCoolingFit": "中型Manifold分流块、电机壳、CDU连接块与通用液冷结构件",
+      "reason": "BT40、820 mm行程和高速快移兼顾覆盖面与效率",
+      "salesQuestion": "工件尺寸重量、铝件高速还是钢件中切削、是否需四轴？",
+      "source": "https://en.jirfine.com/Vertical-Machining-Center-V-8B.html"
+    },
+    {
+      "name": "VH-85",
+      "positioning": "高刚性综合加工中心",
+      "travel": "850×550×550 mm",
+      "table": "1000×520 mm",
+      "load": "600 kg",
+      "spindle": "12,000 rpm｜BT40",
+      "rapid": "36/36/36 m/min",
+      "accuracy": "定位 0.008/0.006/0.006 mm｜重复 0.005/0.004/0.004 mm",
+      "toolMagazine": "30把",
+      "liquidCoolingFit": "泵体、阀块、厚壁分流块及需要更大切削量的钢件/箱体",
+      "reason": "高刚性结构、BT40与30把刀库偏向重切削和多工序",
+      "salesQuestion": "吃刀量、材料硬度、连续重切时长及刀具数量？",
+      "source": "https://en.jirfine.com/Vertical-Machining-Center-VH85.html"
+    },
+    {
+      "name": "V-11",
+      "positioning": "立式高速加工中心",
+      "travel": "1100×600×600 mm",
+      "table": "1200×600 mm",
+      "load": "800 kg",
+      "spindle": "12,000 rpm｜BT40",
+      "rapid": "36/36/36 m/min",
+      "accuracy": "定位 0.008/0.006/0.006 mm｜重复 0.005/0.004/0.004 mm",
+      "toolMagazine": "30把",
+      "liquidCoolingFit": "长尺寸冷板、较大CDU壳体安装面、换热器端板和大型夹具",
+      "reason": "五机中X行程、工作台与承重最大",
+      "salesQuestion": "工件长度、夹具后总重量、多工序及第四轴需求？",
+      "source": "https://www.jirfine.com/"
+    }
+  ],
   "weeklySignals": [
     {
       "date": "2026-08-21",
