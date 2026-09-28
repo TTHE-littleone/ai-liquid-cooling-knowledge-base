@@ -1,78 +1,111 @@
 {
-  "generatedAt": "2026-09-21T01:00:44.148Z",
+  "generatedAt": "2026-09-28T01:33:33.390Z",
   "period": {
-    "start": "2026-09-13",
-    "end": "2026-09-21"
+    "start": "2026-09-20",
+    "end": "2026-09-28"
   },
   "items": [
     {
-      "id": "a3c4bd2b285b",
-      "sourceId": "trendforce-liquid-penetration",
-      "sourceName": "TrendForce AI液冷渗透率",
-      "region": "全球",
-      "type": "市场规模",
-      "evidence": "D 线索待核验",
-      "title": "AI Chip Packaging Pushes Beyond Reticle Limits, with CoWoS-L Set to Remain the Mainstream Advanced Packaging Solution Through 2028, Says TrendForce",
-      "url": "https://www.trendforce.com/presscenter/news/20260918-13241.html",
-      "keywords": [
-        "AI",
-        "chip"
-      ],
-      "score": 3,
-      "firstSeen": "2026-09-18T16:19:02.603Z",
-      "lastSeen": "2026-09-20T15:58:20.955Z",
-      "status": "待核验"
-    },
-    {
-      "id": "2ecd732bd536",
+      "id": "40b461f4f046",
       "sourceId": "vertiv-liquid",
       "sourceName": "Vertiv液冷",
       "region": "全球",
       "type": "企业",
       "evidence": "B 企业/机构官方",
-      "title": "Liebert&#174; XDU1350 Coolant Distribution Unit Installation and Commissioning Guide (SL-70625)",
-      "url": "https://www.vertiv.com/4a6803/globalassets/shared/liebert-xdu1350-coolant-distribution-unit-installation-and-commissioning-guide-sl-70625.pdf",
+      "title": "Vertiv™ CoolChip CDU 70 - Data Sheet - English",
+      "url": "https://www.vertiv.com/4a776f/globalassets/shared/vertiv-coolchip-cdu-70-data-sheet-sl-71252.pdf",
       "keywords": [
-        "XDU"
+        "CDU"
       ],
       "score": 3,
-      "firstSeen": "2026-09-17T16:52:07.899Z",
-      "lastSeen": "2026-09-20T15:58:20.955Z",
+      "firstSeen": "2026-09-26T04:48:03.436Z",
+      "lastSeen": "2026-09-27T16:53:41.474Z",
       "status": "待核验"
     },
     {
-      "id": "dc8b1886c6f2",
-      "sourceId": "ashrae-datacom",
-      "sourceName": "ASHRAE Datacom",
+      "id": "d862128636a5",
+      "sourceId": "vertiv-liquid",
+      "sourceName": "Vertiv液冷",
       "region": "全球",
-      "type": "标准",
+      "type": "企业",
       "evidence": "B 企业/机构官方",
-      "title": "Designing and Operating Data Centers for the Era of AI",
-      "url": "https://www.ashrae.org/professional-development/all-instructor-led-training/catalog-of-instructor-led-training/designing-and-operating-data-centers-for-the-era-of-ai",
+      "title": "Vertiv™ CoolChip CDU 70 - Data Sheet - English",
+      "url": "https://www.vertiv.com/4a717a/globalassets/shared/vertiv-coolchip-cdu-70-data-sheet-sl-71252.pdf",
       "keywords": [
-        "data center"
+        "CDU"
       ],
       "score": 3,
-      "firstSeen": "2026-09-17T04:44:32.022Z",
-      "lastSeen": "2026-09-20T15:58:20.955Z",
+      "firstSeen": "2026-09-23T04:37:13.727Z",
+      "lastSeen": "2026-09-25T17:03:59.695Z",
       "status": "待核验"
     },
     {
-      "id": "bf5182371e4f",
+      "id": "7c0178c7b3c3",
+      "sourceId": "vertiv-liquid",
+      "sourceName": "Vertiv液冷",
+      "region": "全球",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "Vertiv™ CoolChip CDU 70 - Data Sheet - English",
+      "url": "https://www.vertiv.com/4a71cf/globalassets/shared/vertiv-coolchip-cdu-70-data-sheet-sl-71252.pdf",
+      "keywords": [
+        "CDU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-22T16:49:59.490Z",
+      "lastSeen": "2026-09-22T16:49:59.490Z",
+      "status": "待核验"
+    },
+    {
+      "id": "8486cad4d38d",
       "sourceId": "trendforce-liquid-penetration",
       "sourceName": "TrendForce AI液冷渗透率",
       "region": "全球",
       "type": "市场规模",
       "evidence": "D 线索待核验",
-      "title": "AI Server / Data Center",
-      "url": "https://www.trendforce.com/research/ai-server-data-center",
+      "title": "DRAM Module Revenue Surges 59% YoY in 2025 as Crowding-Out Effect Constrains Chip Supply and Drives Prices Higher, Says TrendForce",
+      "url": "https://www.trendforce.com/presscenter/news/20260922-13249.html",
       "keywords": [
         "AI",
-        "server"
+        "chip"
       ],
       "score": 3,
-      "firstSeen": "2026-09-16T16:45:21.806Z",
-      "lastSeen": "2026-09-20T15:58:20.955Z",
+      "firstSeen": "2026-09-22T16:49:59.490Z",
+      "lastSeen": "2026-09-27T16:53:41.474Z",
+      "status": "待核验"
+    },
+    {
+      "id": "bc5bf2d483a9",
+      "sourceId": "vertiv-liquid",
+      "sourceName": "Vertiv液冷",
+      "region": "全球",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "Vertiv™ CoolChip CDU 70 - Data Sheet - English",
+      "url": "https://www.vertiv.com/4a6fd8/globalassets/shared/vertiv-coolchip-cdu-70-data-sheet-sl-71252.pdf",
+      "keywords": [
+        "CDU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-09-21T18:11:01.430Z",
+      "lastSeen": "2026-09-22T04:43:53.969Z",
+      "status": "待核验"
+    },
+    {
+      "id": "8f181f01a5c2",
+      "sourceId": "trendforce-liquid-penetration",
+      "sourceName": "TrendForce AI液冷渗透率",
+      "region": "全球",
+      "type": "市场规模",
+      "evidence": "D 线索待核验",
+      "title": "Japanese and Korean MLCC Makers Cut Consumer Supply to Focus on AI, Chinese Suppliers Enter Global Brand Qualification, Says TrendForce",
+      "url": "https://www.trendforce.com/presscenter/news/20260924-13252.html",
+      "keywords": [
+        "AI"
+      ],
+      "score": 2,
+      "firstSeen": "2026-09-24T17:03:24.571Z",
+      "lastSeen": "2026-09-27T16:53:41.474Z",
       "status": "待核验"
     }
   ]
