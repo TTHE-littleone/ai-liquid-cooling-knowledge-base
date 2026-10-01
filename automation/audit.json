@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-09-07T00:51:01.426Z",
+  "generatedAt": "2026-10-01T07:12:52.079Z",
   "total": 26,
-  "online": 26,
-  "onlineRate": 1,
+  "online": 25,
+  "onlineRate": 0.9615,
   "p0Total": 16,
   "p0Online": 16,
   "p0OnlineRate": 1,
-  "failed": []
+  "failed": [
+    {
+      "id": "cpc-everis",
+      "name": "CPC Everis液冷快接",
+      "error": "HTTP 403"
+    }
+  ]
 }
