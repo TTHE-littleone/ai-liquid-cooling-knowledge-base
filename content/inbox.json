@@ -1,5 +1,141 @@
 [
   {
+    "id": "ccd4879fae38",
+    "sourceId": "ocp-cold-plate",
+    "sourceName": "OCP Cold Plate",
+    "region": "全球",
+    "type": "标准",
+    "evidence": "B 企业/机构官方",
+    "title": "ACS Liquid Cooling Cold Plate Requirements",
+    "url": "https://www.opencompute.org/documents/ocp-acs-liquid-cooling-cold-plate-requirements-pdf/",
+    "keywords": [
+      "cold plate"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-05T20:41:54.997Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
+    "status": "待核验"
+  },
+  {
+    "id": "c6735d80ec5d",
+    "sourceId": "ocp-cold-plate",
+    "sourceName": "OCP Cold Plate",
+    "region": "全球",
+    "type": "标准",
+    "evidence": "B 企业/机构官方",
+    "title": "Guidelines for Using Propylene Glycol Based Heat Transfer Fluids in Single Phase Cold Plate Based Liquid Cooled Racks",
+    "url": "https://www.opencompute.org/documents/guidelines-for-using-propylene-glycol-based-heat-transfer-fluids-in-single-phase-cold-plate-based-liquid-cooled-racks-final-pdf/",
+    "keywords": [
+      "cold plate"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-05T20:41:54.997Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
+    "status": "待核验"
+  },
+  {
+    "id": "c1f67aefa017",
+    "sourceId": "ocp-cold-plate",
+    "sourceName": "OCP Cold Plate",
+    "region": "全球",
+    "type": "标准",
+    "evidence": "B 企业/机构官方",
+    "title": "Guidelines for Using Water-Based Transfer Fluids in Single-Phase Cold Plate-Based Liquid-Cooled Racks",
+    "url": "https://www.opencompute.org/documents/guidelines-for-using-water-based-transfer-fluids-in-single-phase-cold-plate-based-liquid-cooled-racks-final-pdf/",
+    "keywords": [
+      "cold plate"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-05T20:41:54.997Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
+    "status": "待核验"
+  },
+  {
+    "id": "190346be1cda",
+    "sourceId": "ocp-cold-plate",
+    "sourceName": "OCP Cold Plate",
+    "region": "全球",
+    "type": "标准",
+    "evidence": "B 企业/机构官方",
+    "title": "Cold Plate Development and Qualification",
+    "url": "https://www.opencompute.org/documents/ocp-cold-plate-development-and-qualification-with-integrated-comments-pdf/",
+    "keywords": [
+      "cold plate"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-05T20:41:54.997Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
+    "status": "待核验"
+  },
+  {
+    "id": "63e44ade7223",
+    "sourceId": "ocp-cold-plate",
+    "sourceName": "OCP Cold Plate",
+    "region": "全球",
+    "type": "标准",
+    "evidence": "B 企业/机构官方",
+    "title": "LIQUID TO LIQUID CDU TEST METHODOLOGY AND PERFORMANCE RATING",
+    "url": "https://www.opencompute.org/documents/ocp-wp-l-lcdu-test-methodology-performance-rating-r1-pdf/",
+    "keywords": [
+      "CDU"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-05T20:41:54.997Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
+    "status": "待核验"
+  },
+  {
+    "id": "804ea866c09a",
+    "sourceId": "ocp-cold-plate",
+    "sourceName": "OCP Cold Plate",
+    "region": "全球",
+    "type": "标准",
+    "evidence": "B 企业/机构官方",
+    "title": "Cold Plate Base Specifications",
+    "url": "https://www.opencompute.org/projects/cooling-environments/cold-plate/cold-plate-base-specifications/",
+    "keywords": [
+      "cold plate"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-05T20:41:54.997Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
+    "status": "待核验"
+  },
+  {
+    "id": "75815c5143ed",
+    "sourceId": "ocp-cold-plate",
+    "sourceName": "OCP Cold Plate",
+    "region": "全球",
+    "type": "标准",
+    "evidence": "B 企业/机构官方",
+    "title": "Cold Plate Performance",
+    "url": "https://www.opencompute.org/projects/cooling-environments/cold-plate/cold-plate-performance/",
+    "keywords": [
+      "cold plate"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-05T20:41:54.997Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
+    "status": "待核验"
+  },
+  {
+    "id": "5ad9a1c0574b",
+    "sourceId": "ocp-cold-plate",
+    "sourceName": "OCP Cold Plate",
+    "region": "全球",
+    "type": "标准",
+    "evidence": "B 企业/机构官方",
+    "title": "Coolant Fluids",
+    "url": "https://www.opencompute.org/projects/cooling-environments/cold-plate/coolant-fluids/",
+    "keywords": [
+      "coolant"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-05T20:41:54.997Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
+    "status": "待核验"
+  },
+  {
     "id": "726accccc044",
     "sourceId": "ashrae-datacom",
     "sourceName": "ASHRAE Datacom",
@@ -13,7 +149,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-10-02T17:49:17.326Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -30,7 +166,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-10-01T05:41:00.934Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -48,7 +184,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-30T17:58:04.802Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -65,7 +201,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-29T18:02:11.326Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -82,7 +218,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-26T04:48:03.436Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -99,7 +235,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-24T17:03:24.571Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -203,7 +339,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-17T16:52:07.899Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -220,7 +356,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-17T04:44:32.022Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -238,7 +374,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-16T16:45:21.806Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -255,7 +391,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-10T04:30:18.281Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -358,7 +494,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -375,7 +511,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -409,7 +545,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -426,7 +562,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -443,7 +579,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -460,7 +596,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -477,7 +613,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -494,7 +630,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -511,7 +647,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -545,7 +681,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -563,7 +699,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -581,7 +717,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -598,7 +734,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -615,7 +751,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -649,7 +785,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -666,7 +802,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -683,7 +819,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -822,7 +958,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -839,7 +975,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -857,7 +993,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -874,7 +1010,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -891,7 +1027,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -908,7 +1044,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -925,7 +1061,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -942,7 +1078,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -960,7 +1096,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -977,7 +1113,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1219,7 +1355,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1236,7 +1372,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1253,7 +1389,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1270,7 +1406,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1287,7 +1423,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1304,7 +1440,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1321,7 +1457,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1338,7 +1474,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1356,7 +1492,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1373,7 +1509,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1391,7 +1527,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1408,7 +1544,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1425,7 +1561,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1494,7 +1630,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1512,7 +1648,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1564,7 +1700,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1598,7 +1734,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1616,7 +1752,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1633,7 +1769,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1650,7 +1786,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1667,7 +1803,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1684,7 +1820,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1701,7 +1837,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1718,7 +1854,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1735,7 +1871,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1752,7 +1888,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1769,7 +1905,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1786,7 +1922,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1804,7 +1940,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1822,7 +1958,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1839,7 +1975,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1856,7 +1992,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1873,7 +2009,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1890,7 +2026,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1908,7 +2044,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1925,7 +2061,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1942,7 +2078,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1959,7 +2095,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1977,7 +2113,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -1995,7 +2131,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2013,7 +2149,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2030,7 +2166,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2047,7 +2183,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2064,7 +2200,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2082,7 +2218,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2099,7 +2235,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2116,7 +2252,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2133,7 +2269,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2150,7 +2286,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2167,7 +2303,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2184,7 +2320,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2201,7 +2337,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2218,7 +2354,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2235,7 +2371,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2252,7 +2388,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2269,7 +2405,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2286,7 +2422,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2303,7 +2439,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2320,7 +2456,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2337,7 +2473,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2354,7 +2490,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2371,7 +2507,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2388,7 +2524,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2405,7 +2541,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2422,7 +2558,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2439,7 +2575,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2456,7 +2592,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2473,7 +2609,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2490,7 +2626,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2507,7 +2643,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2524,7 +2660,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2541,7 +2677,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2558,7 +2694,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2575,7 +2711,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2592,7 +2728,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2609,7 +2745,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2626,7 +2762,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2643,7 +2779,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2660,7 +2796,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2678,7 +2814,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2695,7 +2831,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2712,7 +2848,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2729,7 +2865,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2746,7 +2882,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2763,7 +2899,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2780,7 +2916,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2797,7 +2933,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2814,7 +2950,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2831,7 +2967,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2865,7 +3001,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2882,7 +3018,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2899,7 +3035,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2916,7 +3052,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2933,7 +3069,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2950,7 +3086,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2967,7 +3103,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -2984,7 +3120,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   },
   {
@@ -3001,7 +3137,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-05T05:26:02.577Z",
+    "lastSeen": "2026-10-05T20:41:54.997Z",
     "status": "待核验"
   }
 ]
