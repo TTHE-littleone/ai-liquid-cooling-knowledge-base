@@ -1,5 +1,177 @@
 [
   {
+    "id": "91db85e4fabb",
+    "sourceId": "vertiv-liquid",
+    "sourceName": "Vertiv液冷",
+    "region": "全球",
+    "type": "企业",
+    "evidence": "B 企业/机构官方",
+    "title": "Vertiv Liebert XDU450 Coolant Distribution Unit Application and Planning Guide",
+    "url": "https://www.vertiv.com/4a8657/globalassets/shared/70616-xdu450-application-and-planning-guide-rev-b_7-22-final-locked.pdf",
+    "keywords": [
+      "XDU"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-09T18:18:24.315Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
+    "status": "待核验"
+  },
+  {
+    "id": "352e92b30787",
+    "sourceId": "vertiv-liquid",
+    "sourceName": "Vertiv液冷",
+    "region": "全球",
+    "type": "企业",
+    "evidence": "B 企业/机构官方",
+    "title": "Liebert&#174; XDU450 Coolant Distribution Unit Installation and Commissioning Guide (SL-70624)",
+    "url": "https://www.vertiv.com/4a865a/globalassets/products/thermal-management/high-density-solutions/liebert-xdu450-coolant-distribution-unit-installation-and-commissioning-guide-sl-70624.pdf",
+    "keywords": [
+      "XDU"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-09T18:18:24.315Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
+    "status": "待核验"
+  },
+  {
+    "id": "dc2bcb17db7f",
+    "sourceId": "vertiv-liquid",
+    "sourceName": "Vertiv液冷",
+    "region": "全球",
+    "type": "企业",
+    "evidence": "B 企业/机构官方",
+    "title": "Liebert&#174; XDU1350 Coolant Distribution Unit Operation and Maintenance Manual (SL-70619)",
+    "url": "https://www.vertiv.com/4a865d/globalassets/products/thermal-management/high-density-solutions/liebert-xdu-coolant-distribution-units/70619-xdu1350-operation-and-maintenance-manual-rev-b_07-22-final-locked.pdf",
+    "keywords": [
+      "XDU"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-09T18:18:24.315Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
+    "status": "待核验"
+  },
+  {
+    "id": "5125414c5f37",
+    "sourceId": "vertiv-liquid",
+    "sourceName": "Vertiv液冷",
+    "region": "全球",
+    "type": "企业",
+    "evidence": "B 企业/机构官方",
+    "title": "Liebert&#174; XDU1350 Coolant Distribution Unit Installation and Commissioning Guide (SL-70625)",
+    "url": "https://www.vertiv.com/4a865f/globalassets/shared/liebert-xdu1350-coolant-distribution-unit-installation-and-commissioning-guide-sl-70625.pdf",
+    "keywords": [
+      "XDU"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-09T18:18:24.315Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
+    "status": "待核验"
+  },
+  {
+    "id": "19a82e46995e",
+    "sourceId": "vertiv-liquid",
+    "sourceName": "Vertiv液冷",
+    "region": "全球",
+    "type": "企业",
+    "evidence": "B 企业/机构官方",
+    "title": "Liebert&#174; XDU070 Operating and Maintenance Guide",
+    "url": "https://www.vertiv.com/4a8662/globalassets/shared/liebert-xdu070-operating-and-maintenance-guide-sl-71112.pdf",
+    "keywords": [
+      "XDU"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-09T18:18:24.315Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
+    "status": "待核验"
+  },
+  {
+    "id": "082faeaa1acb",
+    "sourceId": "vertiv-liquid",
+    "sourceName": "Vertiv液冷",
+    "region": "全球",
+    "type": "企业",
+    "evidence": "B 企业/机构官方",
+    "title": "Vertiv™ Liebert&#174; XDU070 Coolant Distribution Unit (Liquid to Air) Application and Planning Guide SL-71111.pdf",
+    "url": "https://www.vertiv.com/4a8665/globalassets/shared/vertiv-liebert-xdu070-coolant-distribution-unit-liquid-to-air_application-and-planning-guide_sl-71111.pdf",
+    "keywords": [
+      "XDU"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-09T18:18:24.315Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
+    "status": "待核验"
+  },
+  {
+    "id": "7d4939d6f2d1",
+    "sourceId": "vertiv-liquid",
+    "sourceName": "Vertiv液冷",
+    "region": "全球",
+    "type": "企业",
+    "evidence": "B 企业/机构官方",
+    "title": "Liebert&#174; XDU070 Coolant Distribution Unit Installation and Commissioning Guide (SL-71110)",
+    "url": "https://www.vertiv.com/4a8669/globalassets/shared/liebert-xdu070-coolant-distribution-unit-installation-and-commissioning-guide-sl-71110.pdf",
+    "keywords": [
+      "XDU"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-09T18:18:24.315Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
+    "status": "待核验"
+  },
+  {
+    "id": "29af0de67a35",
+    "sourceId": "vertiv-liquid",
+    "sourceName": "Vertiv液冷",
+    "region": "全球",
+    "type": "企业",
+    "evidence": "B 企业/机构官方",
+    "title": "Vertiv™ Liebert&#174; XDU 1350 - Data Sheet - English - Rev.1025",
+    "url": "https://www.vertiv.com/4a864e/globalassets/shared/liebert-xdu1350-coolant-distribution-unitcdu-ds-en-na-sl-70799-web.pdf",
+    "keywords": [
+      "XDU",
+      "CDU"
+    ],
+    "score": 4,
+    "firstSeen": "2026-10-09T18:18:24.315Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
+    "status": "待核验"
+  },
+  {
+    "id": "197347adeea3",
+    "sourceId": "vertiv-liquid",
+    "sourceName": "Vertiv液冷",
+    "region": "全球",
+    "type": "企业",
+    "evidence": "B 企业/机构官方",
+    "title": "Vertiv™ CoolChip CDU 70 - Data Sheet - English",
+    "url": "https://www.vertiv.com/4a8651/globalassets/shared/vertiv-coolchip-cdu-70-data-sheet-sl-71252.pdf",
+    "keywords": [
+      "CDU"
+    ],
+    "score": 3,
+    "firstSeen": "2026-10-09T18:18:24.315Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
+    "status": "待核验"
+  },
+  {
+    "id": "028552e1b9f3",
+    "sourceId": "vertiv-liquid",
+    "sourceName": "Vertiv液冷",
+    "region": "全球",
+    "type": "企业",
+    "evidence": "B 企业/机构官方",
+    "title": "2023 Data Center Liquid Cooling Technology and Market Update White Paper",
+    "url": "https://www.vertiv.com/4a8655/globalassets/products/thermal-management/high-density-solutions/vertiv-liebert-xdu-coolant-distribution-units/vertiv-liquid-cooling-tech_white-paper_en-gl-web.pdf",
+    "keywords": [
+      "liquid cooling",
+      "XDU"
+    ],
+    "score": 4,
+    "firstSeen": "2026-10-09T18:18:24.315Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
+    "status": "待核验"
+  },
+  {
     "id": "f2693b143c4d",
     "sourceId": "delloro-liquid-market",
     "sourceName": "Dell'Oro全球数据中心液冷市场",
@@ -13,7 +185,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-10-08T05:52:39.505Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -30,7 +202,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-10-07T18:51:48.931Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -47,7 +219,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-10-07T05:46:37.559Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -64,7 +236,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-10-07T05:46:37.559Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -81,7 +253,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-10-05T20:41:54.997Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -98,7 +270,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-10-05T20:41:54.997Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -115,7 +287,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-10-05T20:41:54.997Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -132,7 +304,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-10-05T20:41:54.997Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -149,7 +321,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-10-05T20:41:54.997Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -166,7 +338,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-10-05T20:41:54.997Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -183,7 +355,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-10-05T20:41:54.997Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -200,7 +372,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-10-05T20:41:54.997Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -217,7 +389,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-10-02T17:49:17.326Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -234,7 +406,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-10-01T05:41:00.934Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -252,7 +424,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-30T17:58:04.802Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -269,7 +441,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-29T18:02:11.326Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -424,7 +596,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-17T04:44:32.022Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -442,7 +614,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-16T16:45:21.806Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -459,7 +631,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-10T04:30:18.281Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -562,7 +734,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -579,7 +751,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -613,7 +785,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -630,7 +802,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -647,7 +819,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -664,7 +836,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -681,7 +853,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -698,7 +870,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -715,7 +887,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -749,7 +921,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -767,7 +939,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -785,7 +957,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-07T04:25:43.278Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -905,7 +1077,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -922,7 +1094,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -940,7 +1112,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -957,7 +1129,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -974,7 +1146,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -991,7 +1163,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1008,7 +1180,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1026,7 +1198,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1043,7 +1215,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1061,7 +1233,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1078,7 +1250,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1095,7 +1267,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1112,7 +1284,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1129,7 +1301,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1146,7 +1318,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1164,7 +1336,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1181,7 +1353,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1423,7 +1595,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1440,7 +1612,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:47:12.652Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1457,7 +1629,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1474,7 +1646,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1491,7 +1663,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1508,7 +1680,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1525,7 +1697,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1542,7 +1714,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1560,7 +1732,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1577,7 +1749,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1595,7 +1767,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1612,7 +1784,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1629,7 +1801,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1698,7 +1870,7 @@
     ],
     "score": 2,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1716,7 +1888,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-07T00:24:54.785Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1768,7 +1940,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1802,7 +1974,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1820,7 +1992,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1837,7 +2009,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1854,7 +2026,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1871,7 +2043,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1888,7 +2060,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1905,7 +2077,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1922,7 +2094,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1939,7 +2111,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1956,7 +2128,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1973,7 +2145,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -1990,7 +2162,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2008,7 +2180,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2026,7 +2198,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2043,7 +2215,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2060,7 +2232,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2077,7 +2249,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2094,7 +2266,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2112,7 +2284,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2129,7 +2301,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2146,7 +2318,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2163,7 +2335,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2181,7 +2353,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2199,7 +2371,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2217,7 +2389,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2234,7 +2406,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2251,7 +2423,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2268,7 +2440,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2286,7 +2458,7 @@
     ],
     "score": 4,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2303,7 +2475,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2320,7 +2492,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2337,7 +2509,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2354,7 +2526,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2371,7 +2543,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2388,7 +2560,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2405,7 +2577,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2422,7 +2594,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2439,7 +2611,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2456,7 +2628,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2473,7 +2645,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2490,7 +2662,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2507,7 +2679,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2524,7 +2696,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2541,7 +2713,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2558,7 +2730,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2575,7 +2747,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2592,7 +2764,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2609,7 +2781,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2626,7 +2798,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2643,7 +2815,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2660,7 +2832,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2677,7 +2849,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2694,7 +2866,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2711,7 +2883,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2847,7 +3019,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2864,7 +3036,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2933,7 +3105,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -2950,7 +3122,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -3086,7 +3258,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -3103,7 +3275,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -3120,7 +3292,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -3137,7 +3309,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -3154,7 +3326,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -3171,7 +3343,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -3188,7 +3360,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   },
   {
@@ -3205,7 +3377,7 @@
     ],
     "score": 3,
     "firstSeen": "2026-09-06T16:12:20.407Z",
-    "lastSeen": "2026-10-09T05:58:28.732Z",
+    "lastSeen": "2026-10-09T18:18:24.315Z",
     "status": "待核验"
   }
 ]
