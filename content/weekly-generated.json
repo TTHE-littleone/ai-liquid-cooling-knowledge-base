@@ -1,384 +1,77 @@
 {
-  "generatedAt": "2026-10-12T02:16:58.171Z",
+  "generatedAt": "2026-10-19T01:05:47.798Z",
   "period": {
-    "start": "2026-10-04",
-    "end": "2026-10-12"
+    "start": "2026-10-11",
+    "end": "2026-10-19"
   },
   "items": [
     {
-      "id": "29af0de67a35",
-      "sourceId": "vertiv-liquid",
-      "sourceName": "Vertiv液冷",
-      "region": "全球",
-      "type": "企业",
-      "evidence": "B 企业/机构官方",
-      "title": "Vertiv™ Liebert&#174; XDU 1350 - Data Sheet - English - Rev.1025",
-      "url": "https://www.vertiv.com/4a864e/globalassets/shared/liebert-xdu1350-coolant-distribution-unitcdu-ds-en-na-sl-70799-web.pdf",
-      "keywords": [
-        "XDU",
-        "CDU"
-      ],
-      "score": 4,
-      "firstSeen": "2026-10-09T18:18:24.315Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "028552e1b9f3",
-      "sourceId": "vertiv-liquid",
-      "sourceName": "Vertiv液冷",
-      "region": "全球",
-      "type": "企业",
-      "evidence": "B 企业/机构官方",
-      "title": "2023 Data Center Liquid Cooling Technology and Market Update White Paper",
-      "url": "https://www.vertiv.com/4a8655/globalassets/products/thermal-management/high-density-solutions/vertiv-liebert-xdu-coolant-distribution-units/vertiv-liquid-cooling-tech_white-paper_en-gl-web.pdf",
-      "keywords": [
-        "liquid cooling",
-        "XDU"
-      ],
-      "score": 4,
-      "firstSeen": "2026-10-09T18:18:24.315Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "91db85e4fabb",
-      "sourceId": "vertiv-liquid",
-      "sourceName": "Vertiv液冷",
-      "region": "全球",
-      "type": "企业",
-      "evidence": "B 企业/机构官方",
-      "title": "Vertiv Liebert XDU450 Coolant Distribution Unit Application and Planning Guide",
-      "url": "https://www.vertiv.com/4a8657/globalassets/shared/70616-xdu450-application-and-planning-guide-rev-b_7-22-final-locked.pdf",
-      "keywords": [
-        "XDU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-09T18:18:24.315Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "352e92b30787",
-      "sourceId": "vertiv-liquid",
-      "sourceName": "Vertiv液冷",
-      "region": "全球",
-      "type": "企业",
-      "evidence": "B 企业/机构官方",
-      "title": "Liebert&#174; XDU450 Coolant Distribution Unit Installation and Commissioning Guide (SL-70624)",
-      "url": "https://www.vertiv.com/4a865a/globalassets/products/thermal-management/high-density-solutions/liebert-xdu450-coolant-distribution-unit-installation-and-commissioning-guide-sl-70624.pdf",
-      "keywords": [
-        "XDU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-09T18:18:24.315Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "dc2bcb17db7f",
-      "sourceId": "vertiv-liquid",
-      "sourceName": "Vertiv液冷",
-      "region": "全球",
-      "type": "企业",
-      "evidence": "B 企业/机构官方",
-      "title": "Liebert&#174; XDU1350 Coolant Distribution Unit Operation and Maintenance Manual (SL-70619)",
-      "url": "https://www.vertiv.com/4a865d/globalassets/products/thermal-management/high-density-solutions/liebert-xdu-coolant-distribution-units/70619-xdu1350-operation-and-maintenance-manual-rev-b_07-22-final-locked.pdf",
-      "keywords": [
-        "XDU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-09T18:18:24.315Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "5125414c5f37",
-      "sourceId": "vertiv-liquid",
-      "sourceName": "Vertiv液冷",
-      "region": "全球",
-      "type": "企业",
-      "evidence": "B 企业/机构官方",
-      "title": "Liebert&#174; XDU1350 Coolant Distribution Unit Installation and Commissioning Guide (SL-70625)",
-      "url": "https://www.vertiv.com/4a865f/globalassets/shared/liebert-xdu1350-coolant-distribution-unit-installation-and-commissioning-guide-sl-70625.pdf",
-      "keywords": [
-        "XDU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-09T18:18:24.315Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "19a82e46995e",
-      "sourceId": "vertiv-liquid",
-      "sourceName": "Vertiv液冷",
-      "region": "全球",
-      "type": "企业",
-      "evidence": "B 企业/机构官方",
-      "title": "Liebert&#174; XDU070 Operating and Maintenance Guide",
-      "url": "https://www.vertiv.com/4a8662/globalassets/shared/liebert-xdu070-operating-and-maintenance-guide-sl-71112.pdf",
-      "keywords": [
-        "XDU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-09T18:18:24.315Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "082faeaa1acb",
-      "sourceId": "vertiv-liquid",
-      "sourceName": "Vertiv液冷",
-      "region": "全球",
-      "type": "企业",
-      "evidence": "B 企业/机构官方",
-      "title": "Vertiv™ Liebert&#174; XDU070 Coolant Distribution Unit (Liquid to Air) Application and Planning Guide SL-71111.pdf",
-      "url": "https://www.vertiv.com/4a8665/globalassets/shared/vertiv-liebert-xdu070-coolant-distribution-unit-liquid-to-air_application-and-planning-guide_sl-71111.pdf",
-      "keywords": [
-        "XDU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-09T18:18:24.315Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "7d4939d6f2d1",
-      "sourceId": "vertiv-liquid",
-      "sourceName": "Vertiv液冷",
-      "region": "全球",
-      "type": "企业",
-      "evidence": "B 企业/机构官方",
-      "title": "Liebert&#174; XDU070 Coolant Distribution Unit Installation and Commissioning Guide (SL-71110)",
-      "url": "https://www.vertiv.com/4a8669/globalassets/shared/liebert-xdu070-coolant-distribution-unit-installation-and-commissioning-guide-sl-71110.pdf",
-      "keywords": [
-        "XDU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-09T18:18:24.315Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "197347adeea3",
+      "id": "520ba515eb27",
       "sourceId": "vertiv-liquid",
       "sourceName": "Vertiv液冷",
       "region": "全球",
       "type": "企业",
       "evidence": "B 企业/机构官方",
       "title": "Vertiv™ CoolChip CDU 70 - Data Sheet - English",
-      "url": "https://www.vertiv.com/4a8651/globalassets/shared/vertiv-coolchip-cdu-70-data-sheet-sl-71252.pdf",
+      "url": "https://www.vertiv.com/4a9419/globalassets/shared/vertiv-coolchip-cdu-70-data-sheet-sl-71252.pdf",
       "keywords": [
         "CDU"
       ],
       "score": 3,
-      "firstSeen": "2026-10-09T18:18:24.315Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
+      "firstSeen": "2026-10-16T16:32:15.041Z",
+      "lastSeen": "2026-10-18T15:46:36.577Z",
       "status": "待核验"
     },
     {
-      "id": "9a655f757ca8",
-      "sourceId": "ocp-cold-plate",
-      "sourceName": "OCP Cold Plate",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Cold Plate calls",
-      "url": "https://www.youtube.com/playlist?list=PLAG-eekRQBSjw2wdgjnSLo80uZfgNMw7W",
-      "keywords": [
-        "cold plate"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-07T05:46:37.559Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "edbc684dad3c",
-      "sourceId": "ocp-cold-plate",
-      "sourceName": "OCP Cold Plate",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Coolant Fluids workstream calls",
-      "url": "https://www.youtube.com/playlist?list=PLAG-eekRQBSjO486bg1E3ezBXL23w_DBs",
-      "keywords": [
-        "coolant"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-07T05:46:37.559Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "ccd4879fae38",
-      "sourceId": "ocp-cold-plate",
-      "sourceName": "OCP Cold Plate",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "ACS Liquid Cooling Cold Plate Requirements",
-      "url": "https://www.opencompute.org/documents/ocp-acs-liquid-cooling-cold-plate-requirements-pdf/",
-      "keywords": [
-        "cold plate"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-05T20:41:54.997Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "c6735d80ec5d",
-      "sourceId": "ocp-cold-plate",
-      "sourceName": "OCP Cold Plate",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Guidelines for Using Propylene Glycol Based Heat Transfer Fluids in Single Phase Cold Plate Based Liquid Cooled Racks",
-      "url": "https://www.opencompute.org/documents/guidelines-for-using-propylene-glycol-based-heat-transfer-fluids-in-single-phase-cold-plate-based-liquid-cooled-racks-final-pdf/",
-      "keywords": [
-        "cold plate"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-05T20:41:54.997Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "c1f67aefa017",
-      "sourceId": "ocp-cold-plate",
-      "sourceName": "OCP Cold Plate",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Guidelines for Using Water-Based Transfer Fluids in Single-Phase Cold Plate-Based Liquid-Cooled Racks",
-      "url": "https://www.opencompute.org/documents/guidelines-for-using-water-based-transfer-fluids-in-single-phase-cold-plate-based-liquid-cooled-racks-final-pdf/",
-      "keywords": [
-        "cold plate"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-05T20:41:54.997Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "190346be1cda",
-      "sourceId": "ocp-cold-plate",
-      "sourceName": "OCP Cold Plate",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Cold Plate Development and Qualification",
-      "url": "https://www.opencompute.org/documents/ocp-cold-plate-development-and-qualification-with-integrated-comments-pdf/",
-      "keywords": [
-        "cold plate"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-05T20:41:54.997Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "63e44ade7223",
-      "sourceId": "ocp-cold-plate",
-      "sourceName": "OCP Cold Plate",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "LIQUID TO LIQUID CDU TEST METHODOLOGY AND PERFORMANCE RATING",
-      "url": "https://www.opencompute.org/documents/ocp-wp-l-lcdu-test-methodology-performance-rating-r1-pdf/",
-      "keywords": [
-        "CDU"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-05T20:41:54.997Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "804ea866c09a",
-      "sourceId": "ocp-cold-plate",
-      "sourceName": "OCP Cold Plate",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Cold Plate Base Specifications",
-      "url": "https://www.opencompute.org/projects/cooling-environments/cold-plate/cold-plate-base-specifications/",
-      "keywords": [
-        "cold plate"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-05T20:41:54.997Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "75815c5143ed",
-      "sourceId": "ocp-cold-plate",
-      "sourceName": "OCP Cold Plate",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Cold Plate Performance",
-      "url": "https://www.opencompute.org/projects/cooling-environments/cold-plate/cold-plate-performance/",
-      "keywords": [
-        "cold plate"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-05T20:41:54.997Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "5ad9a1c0574b",
-      "sourceId": "ocp-cold-plate",
-      "sourceName": "OCP Cold Plate",
-      "region": "全球",
-      "type": "标准",
-      "evidence": "B 企业/机构官方",
-      "title": "Coolant Fluids",
-      "url": "https://www.opencompute.org/projects/cooling-environments/cold-plate/coolant-fluids/",
-      "keywords": [
-        "coolant"
-      ],
-      "score": 3,
-      "firstSeen": "2026-10-05T20:41:54.997Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
-      "status": "待核验"
-    },
-    {
-      "id": "f2693b143c4d",
-      "sourceId": "delloro-liquid-market",
-      "sourceName": "Dell'Oro全球数据中心液冷市场",
+      "id": "a2a960c0f835",
+      "sourceId": "trendforce-liquid-penetration",
+      "sourceName": "TrendForce AI液冷渗透率",
       "region": "全球",
       "type": "市场规模",
       "evidence": "D 线索待核验",
-      "title": "Data Center Fiber Structured Cabling &#038; PON ODN",
-      "url": "https://www.delloro.com/advanced-research-report/data-center-fiber-structured-cabling-and-pon-odn/",
+      "title": "CSP CapEx Projected to Exceed US$1.5 Trillion in 2027, with AI Server Revenue Growing Over 90% YoY on Higher Shipments and Prices, Says TrendForce",
+      "url": "https://www.trendforce.com/presscenter/news/20261014-13269.html",
       "keywords": [
-        "data center"
+        "AI",
+        "server"
       ],
-      "score": 2,
-      "firstSeen": "2026-10-08T05:52:39.505Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
+      "score": 3,
+      "firstSeen": "2026-10-14T17:02:59.851Z",
+      "lastSeen": "2026-10-18T15:46:36.577Z",
       "status": "待核验"
     },
     {
-      "id": "31bc3d2defd0",
-      "sourceId": "submer-products",
-      "sourceName": "Submer浸没产品",
+      "id": "a215c68c91b7",
+      "sourceId": "vertiv-liquid",
+      "sourceName": "Vertiv液冷",
       "region": "全球",
-      "type": "浸没产品",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "Vertiv™ CoolChip CDU 70 - Data Sheet - English",
+      "url": "https://www.vertiv.com/4a8d28/globalassets/shared/vertiv-coolchip-cdu-70-data-sheet-sl-71252.pdf",
+      "keywords": [
+        "CDU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-10-12T21:13:33.354Z",
+      "lastSeen": "2026-10-16T04:21:30.283Z",
+      "status": "待核验"
+    },
+    {
+      "id": "09fc5eb56b37",
+      "sourceId": "trendforce-liquid-penetration",
+      "sourceName": "TrendForce AI液冷渗透率",
+      "region": "全球",
+      "type": "市场规模",
       "evidence": "D 线索待核验",
-      "title": "[email protected]",
-      "url": "https://submer.com/cdn-cgi/l/email-protection",
+      "title": "Integrated Optical-Electrical Testing Platforms Become Key to CPO Mass Production, Reshaping the Test Equipment Supply Chain, Says TrendForce",
+      "url": "https://www.trendforce.com/presscenter/news/20261013-13267.html",
       "keywords": [
         "AI"
       ],
       "score": 2,
-      "firstSeen": "2026-10-07T18:51:48.931Z",
-      "lastSeen": "2026-10-11T17:39:18.609Z",
+      "firstSeen": "2026-10-13T19:12:11.814Z",
+      "lastSeen": "2026-10-18T15:46:36.577Z",
       "status": "待核验"
     }
   ]
