@@ -1,43 +1,42 @@
 {
-  "generatedAt": "2026-10-26T01:05:33.693Z",
+  "generatedAt": "2026-11-02T02:21:51.253Z",
   "period": {
-    "start": "2026-10-18",
-    "end": "2026-10-26"
+    "start": "2026-10-25",
+    "end": "2026-11-02"
   },
   "items": [
     {
-      "id": "e1e7cbdcd71a",
+      "id": "00e67f08280c",
       "sourceId": "vertiv-liquid",
       "sourceName": "Vertiv液冷",
       "region": "全球",
       "type": "企业",
       "evidence": "B 企业/机构官方",
       "title": "Vertiv™ CoolChip CDU 70 - Data Sheet - English",
-      "url": "https://www.vertiv.com/4aa301/globalassets/shared/vertiv-coolchip-cdu-70-data-sheet-sl-71252.pdf",
+      "url": "https://www.vertiv.com/4aaa2e/globalassets/shared/vertiv-coolchip-cdu-70-data-sheet-sl-71252.pdf",
       "keywords": [
         "CDU"
       ],
       "score": 3,
-      "firstSeen": "2026-10-24T04:26:11.658Z",
-      "lastSeen": "2026-10-25T16:03:14.194Z",
+      "firstSeen": "2026-10-26T18:38:45.694Z",
+      "lastSeen": "2026-11-01T17:54:19.552Z",
       "status": "待核验"
     },
     {
-      "id": "11844accdb7a",
+      "id": "bb44a4adf085",
       "sourceId": "trendforce-liquid-penetration",
       "sourceName": "TrendForce AI液冷渗透率",
       "region": "全球",
       "type": "市场规模",
       "evidence": "D 线索待核验",
-      "title": "Server CPU Shipments Projected to Grow Over 40% YoY in 2027, with Arm-Based Products Continuing to Gain Market Share, Says TrendForce",
-      "url": "https://www.trendforce.com/presscenter/news/20261022-13279.html",
+      "title": "AI Inference Drives CPU and DDR5 Demand, with High-Capacitance MLCC Shortages Expected to Persist Through 1H27, Says TrendForce",
+      "url": "https://www.trendforce.com/presscenter/news/20261029-13284.html",
       "keywords": [
-        "AI",
-        "server"
+        "AI"
       ],
-      "score": 3,
-      "firstSeen": "2026-10-22T17:04:00.469Z",
-      "lastSeen": "2026-10-25T16:03:14.194Z",
+      "score": 2,
+      "firstSeen": "2026-10-29T18:24:19.128Z",
+      "lastSeen": "2026-11-01T17:54:19.552Z",
       "status": "待核验"
     }
   ]
