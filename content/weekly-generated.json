@@ -1,42 +1,93 @@
 {
-  "generatedAt": "2026-11-02T02:21:51.253Z",
+  "generatedAt": "2026-11-09T02:34:25.888Z",
   "period": {
-    "start": "2026-10-25",
-    "end": "2026-11-02"
+    "start": "2026-11-01",
+    "end": "2026-11-09"
   },
   "items": [
     {
-      "id": "00e67f08280c",
+      "id": "47d626c9aa6a",
+      "sourceId": "supermicro-liquid",
+      "sourceName": "Supermicro液冷",
+      "region": "全球",
+      "type": "服务器",
+      "evidence": "B 企业/机构官方",
+      "title": "Liquid Cooling",
+      "url": "https://www.supermicro.com/en/node/3492",
+      "keywords": [
+        "liquid cooling"
+      ],
+      "score": 3,
+      "firstSeen": "2026-11-06T06:26:28.989Z",
+      "lastSeen": "2026-11-08T17:52:57.627Z",
+      "status": "待核验"
+    },
+    {
+      "id": "3f538561ed59",
       "sourceId": "vertiv-liquid",
       "sourceName": "Vertiv液冷",
       "region": "全球",
       "type": "企业",
       "evidence": "B 企业/机构官方",
       "title": "Vertiv™ CoolChip CDU 70 - Data Sheet - English",
-      "url": "https://www.vertiv.com/4aaa2e/globalassets/shared/vertiv-coolchip-cdu-70-data-sheet-sl-71252.pdf",
+      "url": "https://www.vertiv.com/4aad3b/globalassets/shared/vertiv-coolchip-cdu-70-data-sheet-sl-71252.pdf",
       "keywords": [
         "CDU"
       ],
       "score": 3,
-      "firstSeen": "2026-10-26T18:38:45.694Z",
-      "lastSeen": "2026-11-01T17:54:19.552Z",
+      "firstSeen": "2026-11-05T19:52:32.787Z",
+      "lastSeen": "2026-11-08T17:52:57.627Z",
       "status": "待核验"
     },
     {
-      "id": "bb44a4adf085",
+      "id": "6eec5bef8331",
+      "sourceId": "vertiv-liquid",
+      "sourceName": "Vertiv液冷",
+      "region": "全球",
+      "type": "企业",
+      "evidence": "B 企业/机构官方",
+      "title": "Vertiv™ CoolChip CDU 70 - Data Sheet - English",
+      "url": "https://www.vertiv.com/4aa95e/globalassets/shared/vertiv-coolchip-cdu-70-data-sheet-sl-71252.pdf",
+      "keywords": [
+        "CDU"
+      ],
+      "score": 3,
+      "firstSeen": "2026-11-03T19:26:43.418Z",
+      "lastSeen": "2026-11-05T06:31:32.428Z",
+      "status": "待核验"
+    },
+    {
+      "id": "5f198ec28a51",
       "sourceId": "trendforce-liquid-penetration",
       "sourceName": "TrendForce AI液冷渗透率",
       "region": "全球",
       "type": "市场规模",
       "evidence": "D 线索待核验",
-      "title": "AI Inference Drives CPU and DDR5 Demand, with High-Capacitance MLCC Shortages Expected to Persist Through 1H27, Says TrendForce",
-      "url": "https://www.trendforce.com/presscenter/news/20261029-13284.html",
+      "title": "Persistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7–9% in 2027, Says TrendForce",
+      "url": "https://www.trendforce.com/presscenter/news/20261106-13297.html",
+      "keywords": [
+        "penetration"
+      ],
+      "score": 2,
+      "firstSeen": "2026-11-06T19:16:31.348Z",
+      "lastSeen": "2026-11-08T17:52:57.627Z",
+      "status": "待核验"
+    },
+    {
+      "id": "843fa5b57d7f",
+      "sourceId": "trendforce-liquid-penetration",
+      "sourceName": "TrendForce AI液冷渗透率",
+      "region": "全球",
+      "type": "市场规模",
+      "evidence": "D 线索待核验",
+      "title": "AI Networking and Interconnect Market Projected to Reach US$279.8 Billion in 2027, with Scale-Up Share Rising to 24%, Says TrendForce",
+      "url": "https://www.trendforce.com/presscenter/news/20261102-13291.html",
       "keywords": [
         "AI"
       ],
       "score": 2,
-      "firstSeen": "2026-10-29T18:24:19.128Z",
-      "lastSeen": "2026-11-01T17:54:19.552Z",
+      "firstSeen": "2026-11-02T21:40:03.958Z",
+      "lastSeen": "2026-11-08T17:52:57.627Z",
       "status": "待核验"
     }
   ]
