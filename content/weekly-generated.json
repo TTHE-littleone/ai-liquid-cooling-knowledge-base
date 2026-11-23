@@ -1,232 +1,26 @@
 {
-  "generatedAt": "2026-11-16T02:40:39.022Z",
+  "generatedAt": "2026-11-23T03:40:08.632Z",
   "period": {
-    "start": "2026-11-08",
-    "end": "2026-11-16"
+    "start": "2026-11-15",
+    "end": "2026-11-23"
   },
   "items": [
     {
-      "id": "e2cd38054200",
-      "sourceId": "grc-products",
-      "sourceName": "GRC ICEraQ产品",
-      "region": "全球",
-      "type": "浸没产品",
-      "evidence": "D 线索待核验",
-      "title": "Explore ICEraQ Results",
-      "url": "https://www.grcooling.com/learning-center/how-iceraq-immersion-cooled-data-centers-meet-diverse-organizational-needs/",
-      "keywords": [
-        "immersion",
-        "ICEraQ"
-      ],
-      "score": 3,
-      "firstSeen": "2026-11-13T19:34:06.907Z",
-      "lastSeen": "2026-11-15T18:45:24.825Z",
-      "status": "待核验"
-    },
-    {
-      "id": "30925b8f8bd2",
+      "id": "58e7f611d316",
       "sourceId": "delloro-liquid-market",
       "sourceName": "Dell'Oro全球数据中心液冷市场",
       "region": "全球",
       "type": "市场规模",
       "evidence": "D 线索待核验",
-      "title": "Data Center Liquid Cooling",
-      "url": "https://www.delloro.com/research/data-center-infrastructure/data-center-liquid-cooling/",
-      "keywords": [
-        "liquid cooling",
-        "data center"
-      ],
-      "score": 3,
-      "firstSeen": "2026-11-09T22:14:46.156Z",
-      "lastSeen": "2026-11-13T06:27:38.685Z",
-      "status": "待核验"
-    },
-    {
-      "id": "623ae78c90ac",
-      "sourceId": "delloro-liquid-market",
-      "sourceName": "Dell'Oro全球数据中心液冷市场",
-      "region": "全球",
-      "type": "市场规模",
-      "evidence": "D 线索待核验",
-      "title": "Data Center Switch – AI Back-end Networks",
-      "url": "https://www.delloro.com/research/data-center-infrastructure/data-center-switch-ai-back-end-networks/",
+      "title": "AI Data Center Near-packaged Optics & Co-packaged Optics",
+      "url": "https://www.delloro.com/research/data-center-infrastructure/ai-data-center-near-packaged-optics-co-packaged-optics/",
       "keywords": [
         "AI",
         "data center"
       ],
       "score": 3,
-      "firstSeen": "2026-11-09T22:14:46.156Z",
-      "lastSeen": "2026-11-13T06:27:38.685Z",
-      "status": "待核验"
-    },
-    {
-      "id": "55ed46d3b45c",
-      "sourceId": "delloro-liquid-market",
-      "sourceName": "Dell'Oro全球数据中心液冷市场",
-      "region": "全球",
-      "type": "市场规模",
-      "evidence": "D 线索待核验",
-      "title": "Data Center Infrastructure Research",
-      "url": "https://www.delloro.com/research/data-center-infrastructure/",
-      "keywords": [
-        "data center"
-      ],
-      "score": 2,
-      "firstSeen": "2026-11-09T22:14:46.156Z",
-      "lastSeen": "2026-11-13T06:27:38.685Z",
-      "status": "待核验"
-    },
-    {
-      "id": "1c5f70241d18",
-      "sourceId": "delloro-liquid-market",
-      "sourceName": "Dell'Oro全球数据中心液冷市场",
-      "region": "全球",
-      "type": "市场规模",
-      "evidence": "D 线索待核验",
-      "title": "Data Center Fiber Structured Cabling & PON ODN",
-      "url": "https://www.delloro.com/research/telecom-infrastructure/data-center-fiber-structured-cabling-pon-odn/",
-      "keywords": [
-        "data center"
-      ],
-      "score": 2,
-      "firstSeen": "2026-11-09T22:14:46.156Z",
-      "lastSeen": "2026-11-13T06:27:38.685Z",
-      "status": "待核验"
-    },
-    {
-      "id": "20e31c5f934b",
-      "sourceId": "delloro-liquid-market",
-      "sourceName": "Dell'Oro全球数据中心液冷市场",
-      "region": "全球",
-      "type": "市场规模",
-      "evidence": "D 线索待核验",
-      "title": "Data Center High-Density Power",
-      "url": "https://www.delloro.com/research/data-center-infrastructure/data-center-high-density-power/",
-      "keywords": [
-        "data center"
-      ],
-      "score": 2,
-      "firstSeen": "2026-11-09T22:14:46.156Z",
-      "lastSeen": "2026-11-13T06:27:38.685Z",
-      "status": "待核验"
-    },
-    {
-      "id": "a2b62129e13e",
-      "sourceId": "delloro-liquid-market",
-      "sourceName": "Dell'Oro全球数据中心液冷市场",
-      "region": "全球",
-      "type": "市场规模",
-      "evidence": "D 线索待核验",
-      "title": "Data Center Interconnect with IPoDWDM & WDM Systems",
-      "url": "https://www.delloro.com/research/telecom-infrastructure/data-center-interconnect-with-ipodwdm-wdm-systems/",
-      "keywords": [
-        "data center"
-      ],
-      "score": 2,
-      "firstSeen": "2026-11-09T22:14:46.156Z",
-      "lastSeen": "2026-11-13T06:27:38.685Z",
-      "status": "待核验"
-    },
-    {
-      "id": "3d42c4a09ef2",
-      "sourceId": "delloro-liquid-market",
-      "sourceName": "Dell'Oro全球数据中心液冷市场",
-      "region": "全球",
-      "type": "市场规模",
-      "evidence": "D 线索待核验",
-      "title": "Data Center IT Capex",
-      "url": "https://www.delloro.com/research/data-center-infrastructure/data-center-it-capex/",
-      "keywords": [
-        "data center"
-      ],
-      "score": 2,
-      "firstSeen": "2026-11-09T22:14:46.156Z",
-      "lastSeen": "2026-11-13T06:27:38.685Z",
-      "status": "待核验"
-    },
-    {
-      "id": "498796e66656",
-      "sourceId": "delloro-liquid-market",
-      "sourceName": "Dell'Oro全球数据中心液冷市场",
-      "region": "全球",
-      "type": "市场规模",
-      "evidence": "D 线索待核验",
-      "title": "Data Center IT Semiconductors &#038; Components",
-      "url": "https://www.delloro.com/research/data-center-infrastructure/data-center-it-semiconductors-components/",
-      "keywords": [
-        "data center"
-      ],
-      "score": 2,
-      "firstSeen": "2026-11-09T22:14:46.156Z",
-      "lastSeen": "2026-11-13T06:27:38.685Z",
-      "status": "待核验"
-    },
-    {
-      "id": "d52fdab3770b",
-      "sourceId": "delloro-liquid-market",
-      "sourceName": "Dell'Oro全球数据中心液冷市场",
-      "region": "全球",
-      "type": "市场规模",
-      "evidence": "D 线索待核验",
-      "title": "Data Center Physical Infrastructure",
-      "url": "https://www.delloro.com/research/data-center-infrastructure/data-center-physical-infrastructure/",
-      "keywords": [
-        "data center"
-      ],
-      "score": 2,
-      "firstSeen": "2026-11-09T22:14:46.156Z",
-      "lastSeen": "2026-11-13T06:27:38.685Z",
-      "status": "待核验"
-    },
-    {
-      "id": "2bf1820c375b",
-      "sourceId": "delloro-liquid-market",
-      "sourceName": "Dell'Oro全球数据中心液冷市场",
-      "region": "全球",
-      "type": "市场规模",
-      "evidence": "D 线索待核验",
-      "title": "Data Center Switch – Front-end Networks",
-      "url": "https://www.delloro.com/research/data-center-infrastructure/data-center-switch-front-end-networks/",
-      "keywords": [
-        "data center"
-      ],
-      "score": 2,
-      "firstSeen": "2026-11-09T22:14:46.156Z",
-      "lastSeen": "2026-11-13T06:27:38.685Z",
-      "status": "待核验"
-    },
-    {
-      "id": "64e300ab24b8",
-      "sourceId": "delloro-liquid-market",
-      "sourceName": "Dell'Oro全球数据中心液冷市场",
-      "region": "全球",
-      "type": "市场规模",
-      "evidence": "D 线索待核验",
-      "title": "PON in the Data Center & Premise",
-      "url": "https://www.delloro.com/research/telecom-infrastructure/pon-in-the-data-center-premise/",
-      "keywords": [
-        "data center"
-      ],
-      "score": 2,
-      "firstSeen": "2026-11-09T22:14:46.156Z",
-      "lastSeen": "2026-11-13T06:27:38.685Z",
-      "status": "待核验"
-    },
-    {
-      "id": "120027f74e0e",
-      "sourceId": "delloro-liquid-market",
-      "sourceName": "Dell'Oro全球数据中心液冷市场",
-      "region": "全球",
-      "type": "市场规模",
-      "evidence": "D 线索待核验",
-      "title": "AI & Cloud-native Security",
-      "url": "https://www.delloro.com/research/enterprise-networks-security/ai-and-cloud-native-security/",
-      "keywords": [
-        "AI"
-      ],
-      "score": 2,
-      "firstSeen": "2026-11-09T22:14:46.156Z",
-      "lastSeen": "2026-11-13T06:27:38.685Z",
+      "firstSeen": "2026-11-20T19:59:52.447Z",
+      "lastSeen": "2026-11-22T19:28:05.870Z",
       "status": "待核验"
     }
   ]
